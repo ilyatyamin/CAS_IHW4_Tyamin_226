@@ -1,0 +1,3636 @@
+thread with id 0 entered the gallery. 
+[1703005273534800]  now in gallery: 1. statistics: 0 0 0 0 0 --> total visitors for day: 1
+
+thread with id 6 entered the gallery. 
+[1703005273534832]  now in gallery: 2. statistics: 0 0 0 0 0 --> total visitors for day: 2
+
+thread with id 2 entered the gallery. 
+[1703005273534853]  now in gallery: 3. statistics: 0 0 0 0 0 --> total visitors for day: 3
+
+thread with id 0 watching at the painting with id = 1 for 4 seconds.
+[1703005273534867]  now in gallery: 4. statistics: 0 2 0 0 0 --> total visitors for day: 4
+
+thread with id 7 entered the gallery. 
+[1703005273534892]  now in gallery: 4. statistics: 0 3 0 0 0 --> total visitors for day: 4
+
+thread with id 6 watching at the painting with id = 1 for 7 seconds.
+[1703005273534917]  now in gallery: 5. statistics: 1 3 0 0 0 --> total visitors for day: 5
+
+thread with id 2 watching at the painting with id = 1 for 10 seconds.
+[1703005273534962]  now in gallery: 5. statistics: 1 3 0 0 0 --> total visitors for day: 5
+
+thread with id 3 entered the gallery. 
+[1703005273534989]  now in gallery: 5. statistics: 1 3 0 0 0 --> total visitors for day: 5
+
+thread with id 7 watching at the painting with id = 0 for 8 seconds.
+[1703005273535011]  now in gallery: 5. statistics: 1 3 0 0 0 --> total visitors for day: 5
+
+thread with id 5 entered the gallery. 
+[1703005273535025]  now in gallery: 6. statistics: 1 3 0 0 0 --> total visitors for day: 6
+
+thread with id 1 entered the gallery. 
+[1703005273535050]  now in gallery: 7. statistics: 1 3 0 0 0 --> total visitors for day: 7
+
+thread with id 5 watching at the painting with id = 3 for 1 seconds.
+[1703005273535068]  now in gallery: 8. statistics: 1 3 0 1 0 --> total visitors for day: 8
+
+thread with id 1 watching at the painting with id = 0 for 9 seconds.
+[1703005273535081]  now in gallery: 8. statistics: 2 3 0 1 0 --> total visitors for day: 8
+
+thread with id 3 watching at the painting with id = 2 for 3 seconds.
+[1703005273535090]  now in gallery: 8. statistics: 2 3 1 1 0 --> total visitors for day: 8
+
+thread with id 9 entered the gallery. 
+[1703005273535128]  now in gallery: 8. statistics: 2 3 1 1 0 --> total visitors for day: 8
+
+thread with id 9 watching at the painting with id = 2 for 1 seconds.
+[1703005273535159]  now in gallery: 9. statistics: 2 3 2 1 0 --> total visitors for day: 9
+
+thread with id 21 entered the gallery. 
+[1703005273535178]  now in gallery: 9. statistics: 2 3 2 1 0 --> total visitors for day: 9
+
+thread with id 23 entered the gallery. 
+[1703005273535195]  now in gallery: 10. statistics: 2 3 2 1 0 --> total visitors for day: 10
+
+thread with id 10 entered the gallery. 
+[1703005273535221]  now in gallery: 11. statistics: 2 3 3 1 0 --> total visitors for day: 11
+
+thread with id 8 entered the gallery. 
+[1703005273535254]  now in gallery: 12. statistics: 3 3 3 1 1 --> total visitors for day: 12
+
+thread with id 27 entered the gallery. 
+[1703005273535272]  now in gallery: 13. statistics: 3 3 3 1 1 --> total visitors for day: 13
+
+thread with id 8 watching at the painting with id = 0 for 8 seconds.
+[1703005273535287]  now in gallery: 13. statistics: 4 3 3 1 1 --> total visitors for day: 14
+
+thread with id 27 watching at the painting with id = 0 for 4 seconds.
+[1703005273535307]  now in gallery: 14. statistics: 5 3 3 1 1 --> total visitors for day: 14
+
+thread with id 28 entered the gallery. 
+[1703005273535320]  now in gallery: 14. statistics: 5 3 3 1 1 --> total visitors for day: 14
+
+thread with id 23 watching at the painting with id = 4 for 8 seconds.
+[1703005273535346]  now in gallery: 14. statistics: 5 3 3 1 1 --> total visitors for day: 14
+
+thread with id 31 entered the gallery. 
+[1703005273535364]  now in gallery: 15. statistics: 5 3 3 1 1 --> total visitors for day: 15
+
+thread with id 21 watching at the painting with id = 2 for 4 seconds.
+[1703005273535387]  now in gallery: 16. statistics: 5 3 3 1 1 --> total visitors for day: 16
+
+thread with id 10 watching at the painting with id = 0 for 9 seconds.
+[1703005273535413]  now in gallery: 16. statistics: 5 3 3 2 1 --> total visitors for day: 16
+
+thread with id 32 entered the gallery. 
+[1703005273535560]  now in gallery: 16. statistics: 5 3 3 3 1 --> total visitors for day: 16
+
+thread with id 41 entered the gallery. 
+[1703005273535582]  now in gallery: 17. statistics: 5 3 3 3 1 --> total visitors for day: 17
+
+thread with id 42 entered the gallery. 
+[1703005273535605]  now in gallery: 18. statistics: 5 3 3 3 1 --> total visitors for day: 18
+
+thread with id 31 watching at the painting with id = 3 for 4 seconds.
+[1703005273535628]  now in gallery: 18. statistics: 5 3 3 3 2 --> total visitors for day: 18
+
+thread with id 43 entered the gallery. 
+[1703005273535645]  now in gallery: 19. statistics: 5 3 3 3 2 --> total visitors for day: 19
+
+thread with id 32 watching at the painting with id = 4 for 2 seconds.
+[1703005273535668]  now in gallery: 19. statistics: 5 3 3 3 2 --> total visitors for day: 20
+
+thread with id 28 watching at the painting with id = 3 for 7 seconds.
+[1703005273535690]  now in gallery: 20. statistics: 5 3 3 3 2 --> total visitors for day: 20
+
+thread with id 45 entered the gallery. 
+[1703005273535710]  now in gallery: 20. statistics: 5 3 3 3 2 --> total visitors for day: 20
+
+thread with id 20 entered the gallery. 
+[1703005273535737]  now in gallery: 21. statistics: 5 3 3 3 2 --> total visitors for day: 21
+
+thread with id 4 entered the gallery. 
+[1703005273535762]  now in gallery: 22. statistics: 5 3 3 3 2 --> total visitors for day: 22
+
+thread with id 43 watching at the painting with id = 4 for 5 seconds.
+[1703005273535785]  now in gallery: 23. statistics: 5 3 3 3 3 --> total visitors for day: 23
+
+thread with id 45 watching at the painting with id = 1 for 8 seconds.
+[1703005273535803]  now in gallery: 23. statistics: 5 4 3 3 3 --> total visitors for day: 23
+
+thread with id 22 entered the gallery. 
+[1703005273535828]  now in gallery: 23. statistics: 5 4 3 3 3 --> total visitors for day: 23
+
+thread with id 20 watching at the painting with id = 2 for 3 seconds.
+[1703005273535841]  now in gallery: 23. statistics: 5 4 4 3 3 --> total visitors for day: 24
+
+thread with id 24 entered the gallery. 
+[1703005273535854]  now in gallery: 24. statistics: 5 4 4 3 3 --> total visitors for day: 24
+
+thread with id 4 watching at the painting with id = 1 for 2 seconds.
+[1703005273535881]  now in gallery: 25. statistics: 5 5 4 3 3 --> total visitors for day: 25
+
+thread with id 24 watching at the painting with id = 3 for 1 seconds.
+[1703005273535905]  now in gallery: 25. statistics: 5 5 4 4 3 --> total visitors for day: 25
+
+thread with id 25 entered the gallery. 
+[1703005273535926]  now in gallery: 25. statistics: 5 5 4 4 3 --> total visitors for day: 25
+
+thread with id 26 entered the gallery. 
+[1703005273535951]  now in gallery: 26. statistics: 5 5 4 4 3 --> total visitors for day: 26
+
+thread with id 11 entered the gallery. 
+[1703005273535975]  now in gallery: 27. statistics: 5 5 4 4 4 --> total visitors for day: 27
+
+thread with id 26 watching at the painting with id = 4 for 3 seconds.
+[1703005273536001]  now in gallery: 27. statistics: 5 5 4 4 4 --> total visitors for day: 28
+
+thread with id 12 entered the gallery. 
+[1703005273536026]  now in gallery: 28. statistics: 5 5 5 4 4 --> total visitors for day: 28
+
+thread with id 11 watching at the painting with id = 2 for 8 seconds.
+[1703005273536056]  now in gallery: 28. statistics: 5 5 5 4 4 --> total visitors for day: 28
+
+thread with id 13 entered the gallery. 
+[1703005273536093]  now in gallery: 29. statistics: 5 5 5 4 4 --> total visitors for day: 29
+
+thread with id 29 entered the gallery. 
+[1703005273536117]  now in gallery: 30. statistics: 5 5 5 4 4 --> total visitors for day: 30
+
+thread with id 13 watching at the painting with id = 3 for 6 seconds.
+[1703005273536127]  now in gallery: 30. statistics: 5 5 5 5 4 --> total visitors for day: 31
+
+thread with id 30 entered the gallery. 
+[1703005273536201]  now in gallery: 31. statistics: 5 5 5 5 5 --> total visitors for day: 31
+
+thread with id 29 watching at the painting with id = 4 for 10 seconds.
+[1703005273536230]  now in gallery: 31. statistics: 5 5 5 5 5 --> total visitors for day: 32
+
+thread with id 14 entered the gallery. 
+[1703005273536321]  now in gallery: 32. statistics: 5 5 5 5 5 --> total visitors for day: 32
+
+thread with id 15 entered the gallery. 
+[1703005273536373]  now in gallery: 33. statistics: 5 5 5 5 5 --> total visitors for day: 33
+
+thread with id 33 entered the gallery. 
+[1703005273536418]  now in gallery: 34. statistics: 5 5 5 5 5 --> total visitors for day: 34
+
+thread with id 34 entered the gallery. 
+[1703005273536446]  now in gallery: 35. statistics: 5 5 5 5 5 --> total visitors for day: 35
+
+thread with id 35 entered the gallery. 
+[1703005273536496]  now in gallery: 36. statistics: 5 5 5 5 5 --> total visitors for day: 36
+
+thread with id 36 entered the gallery. 
+[1703005273536521]  now in gallery: 37. statistics: 5 5 5 5 5 --> total visitors for day: 37
+
+thread with id 37 entered the gallery. 
+[1703005273536543]  now in gallery: 38. statistics: 5 5 5 5 5 --> total visitors for day: 38
+
+thread with id 38 entered the gallery. 
+[1703005273536567]  now in gallery: 39. statistics: 5 5 5 5 5 --> total visitors for day: 39
+
+thread with id 39 entered the gallery. 
+[1703005273536613]  now in gallery: 40. statistics: 5 5 5 5 5 --> total visitors for day: 40
+
+thread with id 40 entered the gallery. 
+[1703005273536652]  now in gallery: 41. statistics: 5 5 5 5 5 --> total visitors for day: 41
+
+thread with id 16 entered the gallery. 
+[1703005273536687]  now in gallery: 42. statistics: 5 5 5 5 5 --> total visitors for day: 42
+
+thread with id 17 entered the gallery. 
+[1703005273536711]  now in gallery: 43. statistics: 5 5 5 5 5 --> total visitors for day: 43
+
+thread with id 18 entered the gallery. 
+[1703005273536736]  now in gallery: 44. statistics: 5 5 5 5 5 --> total visitors for day: 44
+
+thread with id 44 entered the gallery. 
+[1703005273536770]  now in gallery: 45. statistics: 5 5 5 5 5 --> total visitors for day: 45
+
+thread with id 46 entered the gallery. 
+[1703005273536791]  now in gallery: 46. statistics: 5 5 5 5 5 --> total visitors for day: 46
+
+thread with id 19 entered the gallery. 
+[1703005273536824]  now in gallery: 47. statistics: 5 5 5 5 5 --> total visitors for day: 47
+
+thread with id 47 entered the gallery. 
+[1703005273536843]  now in gallery: 48. statistics: 5 5 5 5 5 --> total visitors for day: 48
+
+thread with id 48 entered the gallery. 
+[1703005273536861]  now in gallery: 49. statistics: 5 5 5 5 5 --> total visitors for day: 49
+
+thread with id 49 entered the gallery. 
+[1703005273536877]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 5 watched at the painting with id = 3 and goes to another
+[1703005274540033]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 9 watched at the painting with id = 2 and goes to another
+[1703005274540233]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 50
+
+thread with id 24 watched at the painting with id = 3 and goes to another
+[1703005274540307]  now in gallery: 50. statistics: 5 5 4 3 5 --> total visitors for day: 50
+
+thread with id 47 watching at the painting with id = 3 for 9 seconds.
+[1703005274540331]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 50
+
+thread with id 24 watching at the painting with id = 2 for 8 seconds.
+[1703005274540366]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 39 watching at the painting with id = 3 for 5 seconds.
+[1703005274543309]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 32 watched at the painting with id = 4 and goes to another
+[1703005275540048]  now in gallery: 50. statistics: 5 4 5 5 4 --> total visitors for day: 50
+
+thread with id 4 watched at the painting with id = 1 and goes to another
+[1703005275540092]  now in gallery: 50. statistics: 5 4 5 5 4 --> total visitors for day: 50
+
+thread with id 15 watching at the painting with id = 4 for 3 seconds.
+[1703005275546604]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 35 watching at the painting with id = 1 for 7 seconds.
+[1703005275547902]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 3 watched at the painting with id = 2 and goes to another
+[1703005276540265]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 34 watching at the painting with id = 2 for 1 seconds.
+[1703005276540356]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 20 watched at the painting with id = 2 and goes to another
+[1703005276540783]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 50
+
+thread with id 26 watched at the painting with id = 4 and goes to another
+[1703005276540814]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 50
+
+thread with id 3 watching at the painting with id = 4 for 6 seconds.
+[1703005276540841]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 32 watching at the painting with id = 2 for 1 seconds.
+[1703005276540885]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 0 watched at the painting with id = 1 and goes to another
+[1703005277540016]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 27 watched at the painting with id = 0 and goes to another
+[1703005277540091]  now in gallery: 50. statistics: 4 4 4 4 5 --> total visitors for day: 50
+
+thread with id 21 watched at the painting with id = 2 and goes to another
+[1703005277540139]  now in gallery: 50. statistics: 4 4 4 4 5 --> total visitors for day: 50
+
+thread with id 31 watched at the painting with id = 3 and goes to another
+[1703005277540192]  now in gallery: 50. statistics: 4 4 5 4 5 --> total visitors for day: 50
+
+thread with id 21 watching at the painting with id = 3 for 9 seconds.
+[1703005277540232]  now in gallery: 50. statistics: 4 4 5 5 5 --> total visitors for day: 50
+
+thread with id 0 watching at the painting with id = 2 for 5 seconds.
+[1703005277540270]  now in gallery: 50. statistics: 4 4 5 5 5 --> total visitors for day: 50
+
+thread with id 42 watching at the painting with id = 0 for 2 seconds.
+[1703005277542430]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 46 watching at the painting with id = 1 for 1 seconds.
+[1703005277542757]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 34 watched at the painting with id = 2 and goes to another
+[1703005277542817]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 50
+
+thread with id 32 watched at the painting with id = 2 and goes to another
+[1703005277542860]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 50
+
+thread with id 44 watching at the painting with id = 2 for 4 seconds.
+[1703005277542909]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 38 watching at the painting with id = 2 for 4 seconds.
+[1703005277543037]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 43 watched at the painting with id = 4 and goes to another
+[1703005278538527]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 50
+
+thread with id 19 watching at the painting with id = 4 for 1 seconds.
+[1703005278543044]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 46 watched at the painting with id = 1 and goes to another
+[1703005278547557]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 15 watched at the painting with id = 4 and goes to another
+[1703005278551413]  now in gallery: 50. statistics: 5 4 5 5 4 --> total visitors for day: 50
+
+thread with id 9 watching at the painting with id = 4 for 2 seconds.
+[1703005278551437]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 25 watching at the painting with id = 1 for 6 seconds.
+[1703005278552558]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 13 watched at the painting with id = 3 and goes to another
+[1703005279540351]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 19 watched at the painting with id = 4 and goes to another
+[1703005279547462]  now in gallery: 50. statistics: 4 5 5 4 4 --> total visitors for day: 50
+
+thread with id 20 watching at the painting with id = 3 for 3 seconds.
+[1703005279547481]  now in gallery: 50. statistics: 4 5 5 5 4 --> total visitors for day: 50
+
+thread with id 17 watching at the painting with id = 4 for 10 seconds.
+[1703005279547552]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 39 watched at the painting with id = 3 and goes to another
+[1703005279547602]  now in gallery: 50. statistics: 4 5 5 4 5 --> total visitors for day: 50
+
+thread with id 46 watching at the painting with id = 3 for 3 seconds.
+[1703005279547625]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 42 watched at the painting with id = 0 and goes to another
+[1703005279547706]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 12 watching at the painting with id = 0 for 3 seconds.
+[1703005279547854]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 6 watched at the painting with id = 1 and goes to another
+[1703005280540131]  now in gallery: 50. statistics: 5 4 5 4 5 --> total visitors for day: 50
+
+thread with id 28 watched at the painting with id = 3 and goes to another
+[1703005280540192]  now in gallery: 50. statistics: 5 4 5 4 5 --> total visitors for day: 50
+
+thread with id 19 watching at the painting with id = 3 for 10 seconds.
+[1703005280540866]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 13 watching at the painting with id = 1 for 7 seconds.
+[1703005280540923]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 9 watched at the painting with id = 4 and goes to another
+[1703005280555175]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 50
+
+thread with id 28 watching at the painting with id = 4 for 6 seconds.
+[1703005280556732]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 7 watched at the painting with id = 0 and goes to another
+[1703005281540112]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 33 watching at the painting with id = 0 for 7 seconds.
+[1703005281540447]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 8 watched at the painting with id = 0 and goes to another
+[1703005281540665]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 23 watched at the painting with id = 4 and goes to another
+[1703005281540713]  now in gallery: 50. statistics: 4 5 5 5 4 --> total visitors for day: 50
+
+thread with id 45 watched at the painting with id = 1 and goes to another
+[1703005281540734]  now in gallery: 50. statistics: 4 4 4 5 4 --> total visitors for day: 50
+
+thread with id 22 watching at the painting with id = 0 for 7 seconds.
+[1703005281540757]  now in gallery: 50. statistics: 5 4 4 5 4 --> total visitors for day: 50
+
+thread with id 23 watching at the painting with id = 1 for 4 seconds.
+[1703005281540794]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 50
+
+thread with id 11 watched at the painting with id = 2 and goes to another
+[1703005281540839]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 50
+
+thread with id 45 watching at the painting with id = 2 for 2 seconds.
+[1703005281540870]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 11 watching at the painting with id = 4 for 7 seconds.
+[1703005281540961]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 44 watched at the painting with id = 2 and goes to another
+[1703005281544746]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 50
+
+thread with id 38 watched at the painting with id = 2 and goes to another
+[1703005281544869]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 50
+
+thread with id 7 watching at the painting with id = 2 for 8 seconds.
+[1703005281546698]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 43 watching at the painting with id = 2 for 4 seconds.
+[1703005281549553]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 10 watched at the painting with id = 0 and goes to another
+[1703005282540404]  now in gallery: 50. statistics: 3 5 5 5 5 --> total visitors for day: 50
+
+thread with id 38 watching at the painting with id = 0 for 3 seconds.
+[1703005282540464]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 1 watched at the painting with id = 0 and goes to another
+[1703005282540493]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 6 watching at the painting with id = 0 for 5 seconds.
+[1703005282540520]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 0 watched at the painting with id = 2 and goes to another
+[1703005282542236]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 50
+
+thread with id 24 watched at the painting with id = 2 and goes to another
+[1703005282542301]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 50
+
+thread with id 1 watching at the painting with id = 2 for 7 seconds.
+[1703005282543117]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 3 watched at the painting with id = 4 and goes to another
+[1703005282545653]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 50
+
+thread with id 44 watching at the painting with id = 4 for 8 seconds.
+[1703005282545746]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 36 watching at the painting with id = 2 for 5 seconds.
+[1703005282545794]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 12 watched at the painting with id = 0 and goes to another
+[1703005282551529]  now in gallery: 50. statistics: 4 4 5 3 5 --> total visitors for day: 50
+
+thread with id 35 watched at the painting with id = 1 and goes to another
+[1703005282551557]  now in gallery: 50. statistics: 4 4 5 3 5 --> total visitors for day: 50
+
+thread with id 12 watching at the painting with id = 1 for 8 seconds.
+[1703005282551578]  now in gallery: 50. statistics: 4 5 5 3 5 --> total visitors for day: 50
+
+thread with id 46 watched at the painting with id = 3 and goes to another
+[1703005282551606]  now in gallery: 50. statistics: 4 5 5 3 5 --> total visitors for day: 50
+
+thread with id 20 watched at the painting with id = 3 and goes to another
+[1703005282551628]  now in gallery: 50. statistics: 4 5 5 3 5 --> total visitors for day: 50
+
+thread with id 39 watching at the painting with id = 0 for 5 seconds.
+[1703005282552777]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 50
+
+thread with id 32 watching at the painting with id = 3 for 6 seconds.
+[1703005282553822]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 26 watching at the painting with id = 3 for 2 seconds.
+[1703005282553868]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 2 watched at the painting with id = 1 and goes to another
+[1703005283540008]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 10 watching at the painting with id = 1 for 6 seconds.
+[1703005283540253]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 29 watched at the painting with id = 4 and goes to another
+[1703005283540402]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 50
+
+thread with id 20 watching at the painting with id = 4 for 6 seconds.
+[1703005283541791]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 47 watched at the painting with id = 3 and goes to another
+[1703005283544057]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 45 watched at the painting with id = 2 and goes to another
+[1703005283545269]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 50
+
+thread with id 2 watching at the painting with id = 2 for 2 seconds.
+[1703005283546384]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 49 watching at the painting with id = 3 for 2 seconds.
+[1703005283548170]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 25 watched at the painting with id = 1 and goes to another
+[1703005284555172]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 3 watching at the painting with id = 1 for 3 seconds.
+[1703005284556928]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 26 watched at the painting with id = 3 and goes to another
+[1703005284557193]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 16 watching at the painting with id = 3 for 4 seconds.
+[1703005284562574]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 38 watched at the painting with id = 0 and goes to another
+[1703005285542776]  now in gallery: 50. statistics: 4 4 5 5 5 --> total visitors for day: 50
+
+thread with id 23 watched at the painting with id = 1 and goes to another
+[1703005285542867]  now in gallery: 50. statistics: 4 4 5 5 5 --> total visitors for day: 50
+
+thread with id 42 watching at the painting with id = 1 for 6 seconds.
+[1703005285550389]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 5 watching at the painting with id = 0 for 10 seconds.
+[1703005285550412]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 2 watched at the painting with id = 2 and goes to another
+[1703005285550694]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 46 watching at the painting with id = 2 for 3 seconds.
+[1703005285550867]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 49 watched at the painting with id = 3 and goes to another
+[1703005285550954]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 50
+
+thread with id 43 watched at the painting with id = 2 and goes to another
+[1703005285551041]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 2 watching at the painting with id = 3 for 8 seconds.
+[1703005285551077]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 15 watching at the painting with id = 2 for 1 seconds.
+[1703005285559602]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 21 watched at the painting with id = 3 and goes to another
+[1703005286544622]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 43 watching at the painting with id = 3 for 7 seconds.
+[1703005286551655]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 28 watched at the painting with id = 4 and goes to another
+[1703005286560174]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 50
+
+thread with id 47 watching at the painting with id = 4 for 5 seconds.
+[1703005286562356]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 15 watched at the painting with id = 2 and goes to another
+[1703005286563051]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 35 watching at the painting with id = 2 for 7 seconds.
+[1703005286568665]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 6 watched at the painting with id = 0 and goes to another
+[1703005287543222]  now in gallery: 50. statistics: 4 4 5 5 5 --> total visitors for day: 50
+
+thread with id 13 watched at the painting with id = 1 and goes to another
+[1703005287543301]  now in gallery: 50. statistics: 4 4 5 5 5 --> total visitors for day: 50
+
+thread with id 8 watching at the painting with id = 1 for 8 seconds.
+[1703005287548626]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 0 watching at the painting with id = 0 for 1 seconds.
+[1703005287548654]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 36 watched at the painting with id = 2 and goes to another
+[1703005287548739]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 13 watching at the painting with id = 2 for 3 seconds.
+[1703005287551721]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 39 watched at the painting with id = 0 and goes to another
+[1703005287557839]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 25 watching at the painting with id = 0 for 6 seconds.
+[1703005287560730]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 3 watched at the painting with id = 1 and goes to another
+[1703005287560753]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 39 watching at the painting with id = 1 for 6 seconds.
+[1703005287561139]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 33 watched at the painting with id = 0 and goes to another
+[1703005288544320]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 22 watched at the painting with id = 0 and goes to another
+[1703005288544342]  now in gallery: 50. statistics: 3 5 5 5 5 --> total visitors for day: 50
+
+thread with id 11 watched at the painting with id = 4 and goes to another
+[1703005288544366]  now in gallery: 50. statistics: 3 5 5 5 4 --> total visitors for day: 50
+
+thread with id 11 watching at the painting with id = 0 for 8 seconds.
+[1703005288544406]  now in gallery: 50. statistics: 4 5 5 5 4 --> total visitors for day: 50
+
+thread with id 38 watching at the painting with id = 4 for 9 seconds.
+[1703005288547678]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 21 watching at the painting with id = 0 for 8 seconds.
+[1703005288547708]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 0 watched at the painting with id = 0 and goes to another
+[1703005288553328]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 3 watching at the painting with id = 0 for 1 seconds.
+[1703005288553352]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 46 watched at the painting with id = 2 and goes to another
+[1703005288555802]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 22 watching at the painting with id = 2 for 9 seconds.
+[1703005288557260]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 32 watched at the painting with id = 3 and goes to another
+[1703005288558444]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 37 watching at the painting with id = 3 for 8 seconds.
+[1703005288559698]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 16 watched at the painting with id = 3 and goes to another
+[1703005288566849]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 4 watching at the painting with id = 3 for 5 seconds.
+[1703005288566900]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 10 watched at the painting with id = 1 and goes to another
+[1703005289543588]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 20 watched at the painting with id = 4 and goes to another
+[1703005289543704]  now in gallery: 50. statistics: 5 4 5 5 4 --> total visitors for day: 50
+
+thread with id 10 watching at the painting with id = 4 for 4 seconds.
+[1703005289543729]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 1 watched at the painting with id = 2 and goes to another
+[1703005289547830]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 50
+
+thread with id 1 watching at the painting with id = 1 for 7 seconds.
+[1703005289547869]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 7 watched at the painting with id = 2 and goes to another
+[1703005289551644]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 31 watching at the painting with id = 2 for 10 seconds.
+[1703005289551674]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 17 watched at the painting with id = 4 and goes to another
+[1703005289552013]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 50
+
+thread with id 17 watching at the painting with id = 2 for 5 seconds.
+[1703005289552038]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 50
+
+thread with id 7 watching at the painting with id = 4 for 9 seconds.
+[1703005289552101]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 3 watched at the painting with id = 0 and goes to another
+[1703005289557525]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 16 watching at the painting with id = 0 for 6 seconds.
+[1703005289559890]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 19 watched at the painting with id = 3 and goes to another
+[1703005290545306]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 3 watching at the painting with id = 3 for 6 seconds.
+[1703005290547473]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 44 watched at the painting with id = 4 and goes to another
+[1703005290548577]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 50
+
+thread with id 30 watching at the painting with id = 4 for 6 seconds.
+[1703005290550253]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 12 watched at the painting with id = 1 and goes to another
+[1703005290556650]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 50
+
+thread with id 13 watched at the painting with id = 2 and goes to another
+[1703005290556718]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 50
+
+thread with id 12 watching at the painting with id = 2 for 1 seconds.
+[1703005290556737]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 19 watching at the painting with id = 1 for 7 seconds.
+[1703005290556838]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 42 watched at the painting with id = 1 and goes to another
+[1703005291555207]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 44 watching at the painting with id = 1 for 9 seconds.
+[1703005291556868]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 12 watched at the painting with id = 2 and goes to another
+[1703005291561471]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 47 watched at the painting with id = 4 and goes to another
+[1703005291565835]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 50
+
+thread with id 40 watching at the painting with id = 4 for 2 seconds.
+[1703005291568434]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 10 watched at the painting with id = 4 and goes to another
+[1703005293548804]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 50
+
+thread with id 24 watching at the painting with id = 4 for 9 seconds.
+[1703005293551321]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 43 watched at the painting with id = 3 and goes to another
+[1703005293555596]  now in gallery: 50. statistics: 5 5 4 3 5 --> total visitors for day: 50
+
+thread with id 2 watched at the painting with id = 3 and goes to another
+[1703005293555658]  now in gallery: 50. statistics: 5 5 4 3 5 --> total visitors for day: 50
+
+thread with id 10 watching at the painting with id = 3 for 10 seconds.
+[1703005293558393]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 50
+
+thread with id 9 watching at the painting with id = 3 for 9 seconds.
+[1703005293560006]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 25 watched at the painting with id = 0 and goes to another
+[1703005293565875]  now in gallery: 50. statistics: 4 4 4 5 5 --> total visitors for day: 50
+
+thread with id 39 watched at the painting with id = 1 and goes to another
+[1703005293565902]  now in gallery: 50. statistics: 4 4 4 5 5 --> total visitors for day: 50
+
+thread with id 39 watching at the painting with id = 2 for 9 seconds.
+[1703005293565950]  now in gallery: 50. statistics: 4 4 5 5 5 --> total visitors for day: 50
+
+thread with id 2 watching at the painting with id = 0 for 7 seconds.
+[1703005293567704]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 50
+
+thread with id 28 watching at the painting with id = 1 for 10 seconds.
+[1703005293570121]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 4 watched at the painting with id = 3 and goes to another
+[1703005293571972]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 40 watched at the painting with id = 4 and goes to another
+[1703005293573253]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 50
+
+thread with id 33 watching at the painting with id = 3 for 2 seconds.
+[1703005293573295]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 50
+
+thread with id 4 watching at the painting with id = 4 for 8 seconds.
+[1703005293573609]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 35 watched at the painting with id = 2 and goes to another
+[1703005293573643]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 17 watched at the painting with id = 2 and goes to another
+[1703005294555212]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 50
+
+thread with id 8 watched at the painting with id = 1 and goes to another
+[1703005295550740]  now in gallery: 50. statistics: 5 4 3 5 5 --> total visitors for day: 50
+
+thread with id 5 watched at the painting with id = 0 and goes to another
+[1703005295555209]  now in gallery: 50. statistics: 4 4 3 5 5 --> total visitors for day: 50
+
+thread with id 5 watching at the painting with id = 2 for 6 seconds.
+[1703005295555258]  now in gallery: 50. statistics: 4 4 4 5 5 --> total visitors for day: 50
+
+thread with id 47 watching at the painting with id = 0 for 5 seconds.
+[1703005295558470]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 50
+
+thread with id 26 watching at the painting with id = 1 for 3 seconds.
+[1703005295558737]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 50
+
+thread with id 16 watched at the painting with id = 0 and goes to another
+[1703005295563967]  now in gallery: 50. statistics: 4 5 4 5 5 --> total visitors for day: 50
+
+thread with id 16 watching at the painting with id = 2 for 3 seconds.
+[1703005295563997]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 45 watching at the painting with id = 0 for 1 seconds.
+[1703005295565809]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 33 watched at the painting with id = 3 and goes to another
+[1703005295578031]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 50
+
+thread with id 36 watching at the painting with id = 3 for 4 seconds.
+[1703005295578074]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 50
+
+thread with id 11 watched at the painting with id = 0 and goes to another
+[1703005296548735]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 50
+
+thread with id 3 watched at the painting with id = 3 and goes to another
+[1703005296551223]  now in gallery: 50. statistics: 3 4 5 4 5 --> total visitors for day: 50
+
+thread with id 3 came out from the gallery. 
+[1703005296551248]  now in gallery: 49. statistics: 3 4 5 4 5 --> total visitors for day: 50
+
+thread with id 1 watched at the painting with id = 1 and goes to another
+[1703005296551294]  now in gallery: 49. statistics: 3 4 5 4 5 --> total visitors for day: 50
+
+thread with id 21 watched at the painting with id = 0 and goes to another
+[1703005296551345]  now in gallery: 49. statistics: 3 4 5 4 5 --> total visitors for day: 50
+
+thread with id 1 watching at the painting with id = 3 for 1 seconds.
+[1703005296551365]  now in gallery: 49. statistics: 3 4 5 5 5 --> total visitors for day: 50
+
+thread with id 21 watching at the painting with id = 1 for 2 seconds.
+[1703005296551385]  now in gallery: 49. statistics: 3 5 5 5 5 --> total visitors for day: 50
+
+thread with id 81 entered the gallery. 
+[1703005296551853]  now in gallery: 50. statistics: 3 5 5 5 5 --> total visitors for day: 51
+
+thread with id 17 watching at the painting with id = 0 for 3 seconds.
+[1703005296551978]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 51
+
+thread with id 32 watching at the painting with id = 0 for 7 seconds.
+[1703005296552027]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 30 watched at the painting with id = 4 and goes to another
+[1703005296555176]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 51
+
+thread with id 46 watching at the painting with id = 4 for 8 seconds.
+[1703005296558477]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 37 watched at the painting with id = 3 and goes to another
+[1703005296564020]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 51
+
+thread with id 15 watching at the painting with id = 3 for 4 seconds.
+[1703005296565583]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 45 watched at the painting with id = 0 and goes to another
+[1703005296570060]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 51
+
+thread with id 41 watching at the painting with id = 0 for 5 seconds.
+[1703005296573205]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 38 watched at the painting with id = 4 and goes to another
+[1703005297552513]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 51
+
+thread with id 48 watching at the painting with id = 4 for 2 seconds.
+[1703005297555412]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 1 watched at the painting with id = 3 and goes to another
+[1703005297555816]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 51
+
+thread with id 34 watching at the painting with id = 3 for 5 seconds.
+[1703005297556629]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 19 watched at the painting with id = 1 and goes to another
+[1703005297561452]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 51
+
+thread with id 22 watched at the painting with id = 2 and goes to another
+[1703005297562349]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 51
+
+thread with id 19 watching at the painting with id = 2 for 5 seconds.
+[1703005297562407]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 51
+
+thread with id 43 watching at the painting with id = 1 for 10 seconds.
+[1703005297565175]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 21 watched at the painting with id = 1 and goes to another
+[1703005298555188]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 51
+
+thread with id 7 watched at the painting with id = 4 and goes to another
+[1703005298555205]  now in gallery: 50. statistics: 5 4 5 5 4 --> total visitors for day: 51
+
+thread with id 21 watching at the painting with id = 4 for 6 seconds.
+[1703005298555229]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 51
+
+thread with id 11 watching at the painting with id = 1 for 6 seconds.
+[1703005298558413]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 26 watched at the painting with id = 1 and goes to another
+[1703005298563283]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 51
+
+thread with id 16 watched at the painting with id = 2 and goes to another
+[1703005298568655]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 51
+
+thread with id 33 watching at the painting with id = 2 for 10 seconds.
+[1703005298569703]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 51
+
+thread with id 17 watched at the painting with id = 0 and goes to another
+[1703005299555296]  now in gallery: 50. statistics: 4 4 4 5 5 --> total visitors for day: 51
+
+thread with id 17 watching at the painting with id = 1 for 1 seconds.
+[1703005299555372]  now in gallery: 50. statistics: 4 5 4 5 5 --> total visitors for day: 51
+
+thread with id 31 watched at the painting with id = 2 and goes to another
+[1703005299555480]  now in gallery: 50. statistics: 4 5 4 5 5 --> total visitors for day: 51
+
+thread with id 35 watching at the painting with id = 0 for 4 seconds.
+[1703005299555531]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 51
+
+thread with id 48 watched at the painting with id = 4 and goes to another
+[1703005299560012]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 51
+
+thread with id 0 watching at the painting with id = 4 for 3 seconds.
+[1703005299560064]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 51
+
+thread with id 37 watching at the painting with id = 2 for 3 seconds.
+[1703005299560377]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 36 watched at the painting with id = 3 and goes to another
+[1703005299582849]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 51
+
+thread with id 40 watching at the painting with id = 3 for 4 seconds.
+[1703005299582887]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 17 watched at the painting with id = 1 and goes to another
+[1703005300560262]  now in gallery: 50. statistics: 4 3 5 5 5 --> total visitors for day: 51
+
+thread with id 44 watched at the painting with id = 1 and goes to another
+[1703005300560317]  now in gallery: 50. statistics: 4 3 5 5 5 --> total visitors for day: 51
+
+thread with id 47 watched at the painting with id = 0 and goes to another
+[1703005300560356]  now in gallery: 50. statistics: 4 3 5 5 5 --> total visitors for day: 51
+
+thread with id 13 watching at the painting with id = 0 for 2 seconds.
+[1703005300569907]  now in gallery: 50. statistics: 5 3 5 5 5 --> total visitors for day: 51
+
+thread with id 36 watching at the painting with id = 1 for 8 seconds.
+[1703005300570053]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 31 watching at the painting with id = 1 for 9 seconds.
+[1703005300570082]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 51
+
+thread with id 15 watched at the painting with id = 3 and goes to another
+[1703005300570117]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 51
+
+thread with id 2 watched at the painting with id = 0 and goes to another
+[1703005300571847]  now in gallery: 50. statistics: 4 5 5 4 5 --> total visitors for day: 51
+
+thread with id 20 watching at the painting with id = 0 for 3 seconds.
+[1703005300572261]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 51
+
+thread with id 17 watching at the painting with id = 3 for 10 seconds.
+[1703005300573201]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 5 watched at the painting with id = 2 and goes to another
+[1703005301560466]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 51
+
+thread with id 47 watching at the painting with id = 2 for 5 seconds.
+[1703005301563487]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 41 watched at the painting with id = 0 and goes to another
+[1703005301576913]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 51
+
+thread with id 49 watching at the painting with id = 0 for 9 seconds.
+[1703005301576984]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 51
+
+thread with id 4 watched at the painting with id = 4 and goes to another
+[1703005301577011]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 51
+
+thread with id 5 watching at the painting with id = 4 for 9 seconds.
+[1703005301578844]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 24 watched at the painting with id = 4 and goes to another
+[1703005302555233]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 51
+
+thread with id 1 watching at the painting with id = 4 for 6 seconds.
+[1703005302558352]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 34 watched at the painting with id = 3 and goes to another
+[1703005302561690]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 51
+
+thread with id 42 watching at the painting with id = 3 for 1 seconds.
+[1703005302562097]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 0 watched at the painting with id = 4 and goes to another
+[1703005302565187]  now in gallery: 50. statistics: 5 5 5 4 4 --> total visitors for day: 51
+
+thread with id 37 watched at the painting with id = 2 and goes to another
+[1703005302565213]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 51
+
+thread with id 9 watched at the painting with id = 3 and goes to another
+[1703005302565242]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 51
+
+thread with id 16 watching at the painting with id = 4 for 2 seconds.
+[1703005302565269]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 51
+
+thread with id 0 watching at the painting with id = 3 for 4 seconds.
+[1703005302565288]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 51
+
+thread with id 19 watched at the painting with id = 2 and goes to another
+[1703005302566972]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 51
+
+thread with id 39 watched at the painting with id = 2 and goes to another
+[1703005302567065]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 51
+
+thread with id 13 watched at the painting with id = 0 and goes to another
+[1703005302574954]  now in gallery: 50. statistics: 4 5 2 5 5 --> total visitors for day: 51
+
+thread with id 19 watching at the painting with id = 0 for 4 seconds.
+[1703005302574976]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 51
+
+thread with id 32 watched at the painting with id = 0 and goes to another
+[1703005303556834]  now in gallery: 50. statistics: 4 5 2 5 5 --> total visitors for day: 51
+
+thread with id 48 watching at the painting with id = 0 for 6 seconds.
+[1703005303557107]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 51
+
+thread with id 35 watched at the painting with id = 0 and goes to another
+[1703005303560093]  now in gallery: 50. statistics: 4 5 2 5 5 --> total visitors for day: 51
+
+thread with id 26 watching at the painting with id = 0 for 7 seconds.
+[1703005303560415]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 51
+
+thread with id 10 watched at the painting with id = 3 and goes to another
+[1703005303560684]  now in gallery: 50. statistics: 5 5 2 4 5 --> total visitors for day: 51
+
+thread with id 10 watching at the painting with id = 2 for 2 seconds.
+[1703005303560738]  now in gallery: 50. statistics: 5 5 3 4 5 --> total visitors for day: 51
+
+thread with id 35 watching at the painting with id = 3 for 8 seconds.
+[1703005303560773]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 51
+
+thread with id 42 watched at the painting with id = 3 and goes to another
+[1703005303566039]  now in gallery: 50. statistics: 5 5 3 4 5 --> total visitors for day: 51
+
+thread with id 7 watching at the painting with id = 3 for 3 seconds.
+[1703005303566063]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 51
+
+thread with id 42 watching at the painting with id = 2 for 1 seconds.
+[1703005303566075]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 51
+
+thread with id 28 watched at the painting with id = 1 and goes to another
+[1703005303574547]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 51
+
+thread with id 28 watching at the painting with id = 2 for 2 seconds.
+[1703005303574596]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 51
+
+thread with id 20 watched at the painting with id = 0 and goes to another
+[1703005303575751]  now in gallery: 50. statistics: 4 4 5 5 5 --> total visitors for day: 51
+
+thread with id 20 watching at the painting with id = 1 for 1 seconds.
+[1703005303575776]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 51
+
+thread with id 4 watching at the painting with id = 0 for 8 seconds.
+[1703005303577684]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 40 watched at the painting with id = 3 and goes to another
+[1703005303585761]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 51
+
+thread with id 23 watching at the painting with id = 3 for 10 seconds.
+[1703005303590998]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 51
+
+thread with id 21 watched at the painting with id = 4 and goes to another
+[1703005304559724]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 51
+
+thread with id 21 came out from the gallery. 
+[1703005304559734]  now in gallery: 49. statistics: 5 5 5 5 4 --> total visitors for day: 51
+
+thread with id 95 entered the gallery. 
+[1703005304562957]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 52
+
+thread with id 45 watching at the painting with id = 4 for 4 seconds.
+[1703005304563229]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 52
+
+thread with id 11 watched at the painting with id = 1 and goes to another
+[1703005304563258]  now in gallery: 50. statistics: 5 4 5 5 4 --> total visitors for day: 52
+
+thread with id 46 watched at the painting with id = 4 and goes to another
+[1703005304563302]  now in gallery: 50. statistics: 5 4 5 5 4 --> total visitors for day: 52
+
+thread with id 18 watching at the painting with id = 4 for 6 seconds.
+[1703005304563343]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 52
+
+thread with id 95 watching at the painting with id = 1 for 2 seconds.
+[1703005304563421]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 52
+
+thread with id 16 watched at the painting with id = 4 and goes to another
+[1703005304570392]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 52
+
+thread with id 25 watching at the painting with id = 4 for 8 seconds.
+[1703005304570426]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 52
+
+thread with id 42 watched at the painting with id = 2 and goes to another
+[1703005304570470]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 52
+
+thread with id 20 watched at the painting with id = 1 and goes to another
+[1703005304579686]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 52
+
+thread with id 20 came out from the gallery. 
+[1703005304579782]  now in gallery: 49. statistics: 5 4 4 5 5 --> total visitors for day: 52
+
+thread with id 96 entered the gallery. 
+[1703005304580268]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 53
+
+thread with id 15 watching at the painting with id = 1 for 7 seconds.
+[1703005304580294]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 53
+
+thread with id 10 watched at the painting with id = 2 and goes to another
+[1703005305562807]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 53
+
+thread with id 10 came out from the gallery. 
+[1703005305562821]  now in gallery: 49. statistics: 5 5 3 5 5 --> total visitors for day: 53
+
+thread with id 79 entered the gallery. 
+[1703005305562866]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 54
+
+thread with id 79 watching at the painting with id = 2 for 2 seconds.
+[1703005305562958]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 54
+
+thread with id 28 watched at the painting with id = 2 and goes to another
+[1703005305579738]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 54
+
+thread with id 95 watched at the painting with id = 1 and goes to another
+[1703005306564718]  now in gallery: 50. statistics: 5 4 2 5 5 --> total visitors for day: 54
+
+thread with id 47 watched at the painting with id = 2 and goes to another
+[1703005306564750]  now in gallery: 50. statistics: 5 4 2 5 5 --> total visitors for day: 54
+
+thread with id 47 watching at the painting with id = 1 for 6 seconds.
+[1703005306564793]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 54
+
+thread with id 7 watched at the painting with id = 3 and goes to another
+[1703005306568543]  now in gallery: 50. statistics: 5 5 2 4 5 --> total visitors for day: 54
+
+thread with id 0 watched at the painting with id = 3 and goes to another
+[1703005306568560]  now in gallery: 50. statistics: 5 5 2 3 5 --> total visitors for day: 54
+
+thread with id 0 came out from the gallery. 
+[1703005306568567]  now in gallery: 49. statistics: 5 5 2 3 5 --> total visitors for day: 54
+
+thread with id 83 entered the gallery. 
+[1703005306568590]  now in gallery: 50. statistics: 5 5 2 3 5 --> total visitors for day: 55
+
+thread with id 95 watching at the painting with id = 3 for 6 seconds.
+[1703005306568608]  now in gallery: 50. statistics: 5 5 2 4 5 --> total visitors for day: 55
+
+thread with id 83 watching at the painting with id = 3 for 5 seconds.
+[1703005306568641]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 55
+
+thread with id 19 watched at the painting with id = 0 and goes to another
+[1703005306579629]  now in gallery: 50. statistics: 4 5 2 5 5 --> total visitors for day: 55
+
+thread with id 19 came out from the gallery. 
+[1703005306579640]  now in gallery: 49. statistics: 4 5 2 5 5 --> total visitors for day: 55
+
+thread with id 90 entered the gallery. 
+[1703005306579841]  now in gallery: 50. statistics: 4 5 2 5 5 --> total visitors for day: 56
+
+thread with id 9 watching at the painting with id = 0 for 6 seconds.
+[1703005306580206]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 56
+
+thread with id 79 watched at the painting with id = 2 and goes to another
+[1703005307565880]  now in gallery: 50. statistics: 5 5 1 5 5 --> total visitors for day: 56
+
+thread with id 43 watched at the painting with id = 1 and goes to another
+[1703005307569415]  now in gallery: 50. statistics: 5 4 1 5 5 --> total visitors for day: 56
+
+thread with id 32 watching at the painting with id = 1 for 5 seconds.
+[1703005307574091]  now in gallery: 50. statistics: 5 5 1 5 5 --> total visitors for day: 56
+
+thread with id 1 watched at the painting with id = 4 and goes to another
+[1703005308560436]  now in gallery: 50. statistics: 5 5 1 5 4 --> total visitors for day: 56
+
+thread with id 1 came out from the gallery. 
+[1703005308560446]  now in gallery: 49. statistics: 5 5 1 5 4 --> total visitors for day: 56
+
+thread with id 59 entered the gallery. 
+[1703005308560781]  now in gallery: 50. statistics: 5 5 1 5 4 --> total visitors for day: 57
+
+thread with id 27 watching at the painting with id = 4 for 2 seconds.
+[1703005308560811]  now in gallery: 50. statistics: 5 5 1 5 5 --> total visitors for day: 57
+
+thread with id 45 watched at the painting with id = 4 and goes to another
+[1703005308567822]  now in gallery: 50. statistics: 5 5 1 5 4 --> total visitors for day: 57
+
+thread with id 14 watching at the painting with id = 4 for 6 seconds.
+[1703005308568322]  now in gallery: 50. statistics: 5 5 1 5 5 --> total visitors for day: 57
+
+thread with id 33 watched at the painting with id = 2 and goes to another
+[1703005308574521]  now in gallery: 50. statistics: 5 5 0 5 5 --> total visitors for day: 57
+
+thread with id 36 watched at the painting with id = 1 and goes to another
+[1703005308574849]  now in gallery: 50. statistics: 5 4 0 5 5 --> total visitors for day: 57
+
+thread with id 33 watching at the painting with id = 1 for 2 seconds.
+[1703005308574950]  now in gallery: 50. statistics: 5 5 0 5 5 --> total visitors for day: 57
+
+thread with id 48 watched at the painting with id = 0 and goes to another
+[1703005309559791]  now in gallery: 50. statistics: 4 5 0 5 5 --> total visitors for day: 57
+
+thread with id 48 watching at the painting with id = 2 for 3 seconds.
+[1703005309559842]  now in gallery: 50. statistics: 4 5 1 5 5 --> total visitors for day: 57
+
+thread with id 36 watching at the painting with id = 0 for 7 seconds.
+[1703005309565994]  now in gallery: 50. statistics: 5 5 1 5 5 --> total visitors for day: 57
+
+thread with id 31 watched at the painting with id = 1 and goes to another
+[1703005309574327]  now in gallery: 50. statistics: 5 4 1 5 5 --> total visitors for day: 57
+
+thread with id 16 watching at the painting with id = 1 for 7 seconds.
+[1703005309574393]  now in gallery: 50. statistics: 5 5 1 5 5 --> total visitors for day: 57
+
+thread with id 26 watched at the painting with id = 0 and goes to another
+[1703005310565617]  now in gallery: 50. statistics: 4 5 1 5 3 --> total visitors for day: 57
+
+thread with id 27 watched at the painting with id = 4 and goes to another
+[1703005310565654]  now in gallery: 50. statistics: 4 5 1 5 3 --> total visitors for day: 57
+
+thread with id 26 watching at the painting with id = 2 for 4 seconds.
+[1703005310565670]  now in gallery: 50. statistics: 4 5 2 5 3 --> total visitors for day: 57
+
+thread with id 18 watched at the painting with id = 4 and goes to another
+[1703005310565693]  now in gallery: 50. statistics: 4 5 2 5 3 --> total visitors for day: 57
+
+thread with id 13 watching at the painting with id = 4 for 2 seconds.
+[1703005310573735]  now in gallery: 50. statistics: 5 5 2 5 4 --> total visitors for day: 57
+
+thread with id 37 watching at the painting with id = 4 for 2 seconds.
+[1703005310573793]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 57
+
+thread with id 96 watching at the painting with id = 0 for 10 seconds.
+[1703005310573830]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 57
+
+thread with id 17 watched at the painting with id = 3 and goes to another
+[1703005310577946]  now in gallery: 50. statistics: 5 5 2 4 5 --> total visitors for day: 57
+
+thread with id 17 came out from the gallery. 
+[1703005310577953]  now in gallery: 49. statistics: 5 5 2 4 5 --> total visitors for day: 57
+
+thread with id 33 watched at the painting with id = 1 and goes to another
+[1703005310579646]  now in gallery: 49. statistics: 5 4 2 4 5 --> total visitors for day: 57
+
+thread with id 49 watched at the painting with id = 0 and goes to another
+[1703005310581826]  now in gallery: 49. statistics: 4 4 2 4 5 --> total visitors for day: 57
+
+thread with id 87 entered the gallery. 
+[1703005310582139]  now in gallery: 50. statistics: 4 4 2 4 5 --> total visitors for day: 58
+
+thread with id 87 watching at the painting with id = 0 for 2 seconds.
+[1703005310582213]  now in gallery: 50. statistics: 5 4 2 4 5 --> total visitors for day: 58
+
+thread with id 7 watching at the painting with id = 1 for 5 seconds.
+[1703005310583846]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 58
+
+thread with id 11 watching at the painting with id = 3 for 3 seconds.
+[1703005310583882]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 58
+
+thread with id 5 watched at the painting with id = 4 and goes to another
+[1703005310584085]  now in gallery: 50. statistics: 5 5 2 5 4 --> total visitors for day: 58
+
+thread with id 49 watching at the painting with id = 4 for 3 seconds.
+[1703005310584701]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 58
+
+thread with id 35 watched at the painting with id = 3 and goes to another
+[1703005311565682]  now in gallery: 50. statistics: 5 5 2 4 5 --> total visitors for day: 58
+
+thread with id 38 watching at the painting with id = 3 for 7 seconds.
+[1703005311565753]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 58
+
+thread with id 83 watched at the painting with id = 3 and goes to another
+[1703005311572022]  now in gallery: 50. statistics: 5 5 2 4 5 --> total visitors for day: 58
+
+thread with id 90 watching at the painting with id = 3 for 5 seconds.
+[1703005311572083]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 58
+
+thread with id 4 watched at the painting with id = 0 and goes to another
+[1703005311582093]  now in gallery: 50. statistics: 4 5 2 5 5 --> total visitors for day: 58
+
+thread with id 4 watching at the painting with id = 2 for 9 seconds.
+[1703005311582126]  now in gallery: 50. statistics: 4 5 3 5 5 --> total visitors for day: 58
+
+thread with id 46 watching at the painting with id = 0 for 8 seconds.
+[1703005311583432]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 58
+
+thread with id 15 watched at the painting with id = 1 and goes to another
+[1703005311583503]  now in gallery: 50. statistics: 5 4 3 5 5 --> total visitors for day: 58
+
+thread with id 5 watching at the painting with id = 1 for 2 seconds.
+[1703005311584276]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 58
+
+thread with id 48 watched at the painting with id = 2 and goes to another
+[1703005312563111]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 58
+
+thread with id 47 watched at the painting with id = 1 and goes to another
+[1703005312566403]  now in gallery: 50. statistics: 5 4 2 5 5 --> total visitors for day: 58
+
+thread with id 47 came out from the gallery. 
+[1703005312566412]  now in gallery: 49. statistics: 5 4 2 5 5 --> total visitors for day: 58
+
+thread with id 74 entered the gallery. 
+[1703005312571971]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 59
+
+thread with id 27 watching at the painting with id = 1 for 7 seconds.
+[1703005312572016]  now in gallery: 50. statistics: 5 5 2 4 5 --> total visitors for day: 59
+
+thread with id 95 watched at the painting with id = 3 and goes to another
+[1703005312572074]  now in gallery: 50. statistics: 5 5 2 4 5 --> total visitors for day: 59
+
+thread with id 45 watching at the painting with id = 3 for 5 seconds.
+[1703005312573041]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 59
+
+thread with id 25 watched at the painting with id = 4 and goes to another
+[1703005312575489]  now in gallery: 50. statistics: 5 5 2 5 4 --> total visitors for day: 59
+
+thread with id 39 watching at the painting with id = 4 for 10 seconds.
+[1703005312575549]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 59
+
+thread with id 37 watched at the painting with id = 4 and goes to another
+[1703005312578795]  now in gallery: 50. statistics: 5 5 2 5 3 --> total visitors for day: 59
+
+thread with id 13 watched at the painting with id = 4 and goes to another
+[1703005312578830]  now in gallery: 50. statistics: 5 5 2 5 3 --> total visitors for day: 59
+
+thread with id 13 came out from the gallery. 
+[1703005312578838]  now in gallery: 49. statistics: 5 5 2 5 3 --> total visitors for day: 59
+
+thread with id 89 entered the gallery. 
+[1703005312579069]  now in gallery: 50. statistics: 5 5 2 5 3 --> total visitors for day: 60
+
+thread with id 32 watched at the painting with id = 1 and goes to another
+[1703005312579189]  now in gallery: 50. statistics: 5 4 2 5 4 --> total visitors for day: 60
+
+thread with id 32 came out from the gallery. 
+[1703005312579205]  now in gallery: 49. statistics: 5 4 2 5 4 --> total visitors for day: 60
+
+thread with id 65 entered the gallery. 
+[1703005312579235]  now in gallery: 50. statistics: 5 4 2 5 4 --> total visitors for day: 61
+
+thread with id 89 watching at the painting with id = 4 for 5 seconds.
+[1703005312579258]  now in gallery: 50. statistics: 5 4 2 5 4 --> total visitors for day: 61
+
+thread with id 95 watching at the painting with id = 4 for 10 seconds.
+[1703005312579280]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 61
+
+thread with id 65 watching at the painting with id = 1 for 3 seconds.
+[1703005312579309]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 61
+
+thread with id 9 watched at the painting with id = 0 and goes to another
+[1703005312585141]  now in gallery: 50. statistics: 4 5 2 5 5 --> total visitors for day: 61
+
+thread with id 15 watching at the painting with id = 0 for 1 seconds.
+[1703005312585174]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 61
+
+thread with id 87 watched at the painting with id = 0 and goes to another
+[1703005312586923]  now in gallery: 50. statistics: 4 5 2 5 5 --> total visitors for day: 61
+
+thread with id 74 watching at the painting with id = 0 for 2 seconds.
+[1703005312590991]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 61
+
+thread with id 11 watched at the painting with id = 3 and goes to another
+[1703005313588634]  now in gallery: 50. statistics: 5 4 2 4 5 --> total visitors for day: 61
+
+thread with id 11 came out from the gallery. 
+[1703005313588670]  now in gallery: 49. statistics: 5 4 2 4 5 --> total visitors for day: 61
+
+thread with id 49 watched at the painting with id = 4 and goes to another
+[1703005313588702]  now in gallery: 50. statistics: 5 4 2 4 4 --> total visitors for day: 62
+
+thread with id 22 watching at the painting with id = 4 for 10 seconds.
+[1703005313588758]  now in gallery: 50. statistics: 5 4 2 4 5 --> total visitors for day: 62
+
+thread with id 15 watched at the painting with id = 0 and goes to another
+[1703005313588850]  now in gallery: 50. statistics: 4 4 2 5 5 --> total visitors for day: 62
+
+thread with id 15 came out from the gallery. 
+[1703005313588876]  now in gallery: 49. statistics: 4 4 2 5 5 --> total visitors for day: 62
+
+thread with id 5 watched at the painting with id = 1 and goes to another
+[1703005313588918]  now in gallery: 49. statistics: 4 4 2 5 5 --> total visitors for day: 62
+
+thread with id 5 came out from the gallery. 
+[1703005313588949]  now in gallery: 48. statistics: 4 4 2 5 5 --> total visitors for day: 62
+
+thread with id 81 watching at the painting with id = 3 for 8 seconds.
+[1703005313589022]  now in gallery: 48. statistics: 4 4 2 5 5 --> total visitors for day: 62
+
+thread with id 73 entered the gallery. 
+[1703005313589098]  now in gallery: 48. statistics: 4 4 2 5 5 --> total visitors for day: 62
+
+thread with id 61 entered the gallery. 
+[1703005313589178]  now in gallery: 49. statistics: 4 5 2 5 5 --> total visitors for day: 63
+
+thread with id 94 entered the gallery. 
+[1703005313589234]  now in gallery: 50. statistics: 4 5 2 5 5 --> total visitors for day: 64
+
+thread with id 73 watching at the painting with id = 1 for 3 seconds.
+[1703005313589316]  now in gallery: 50. statistics: 4 5 2 5 5 --> total visitors for day: 64
+
+thread with id 28 watching at the painting with id = 0 for 8 seconds.
+[1703005313594945]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 64
+
+thread with id 23 watched at the painting with id = 3 and goes to another
+[1703005313595727]  now in gallery: 50. statistics: 5 5 2 4 5 --> total visitors for day: 64
+
+thread with id 23 watching at the painting with id = 2 for 5 seconds.
+[1703005313595771]  now in gallery: 50. statistics: 5 5 3 4 5 --> total visitors for day: 64
+
+thread with id 41 watching at the painting with id = 3 for 8 seconds.
+[1703005313596576]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 64
+
+thread with id 26 watched at the painting with id = 2 and goes to another
+[1703005314566877]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 64
+
+thread with id 26 came out from the gallery. 
+[1703005314566887]  now in gallery: 49. statistics: 5 5 2 5 5 --> total visitors for day: 64
+
+thread with id 14 watched at the painting with id = 4 and goes to another
+[1703005314571949]  now in gallery: 49. statistics: 5 5 2 5 4 --> total visitors for day: 64
+
+thread with id 62 entered the gallery. 
+[1703005314571985]  now in gallery: 50. statistics: 5 5 2 5 4 --> total visitors for day: 65
+
+thread with id 94 watching at the painting with id = 4 for 6 seconds.
+[1703005314572025]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 65
+
+thread with id 62 watching at the painting with id = 2 for 8 seconds.
+[1703005314572045]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 65
+
+thread with id 74 watched at the painting with id = 0 and goes to another
+[1703005314595184]  now in gallery: 50. statistics: 4 5 3 5 5 --> total visitors for day: 65
+
+thread with id 79 watching at the painting with id = 0 for 3 seconds.
+[1703005314598131]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 65
+
+thread with id 65 watched at the painting with id = 1 and goes to another
+[1703005315584390]  now in gallery: 50. statistics: 5 4 3 5 5 --> total visitors for day: 65
+
+thread with id 61 watching at the painting with id = 1 for 10 seconds.
+[1703005315584457]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 65
+
+thread with id 7 watched at the painting with id = 1 and goes to another
+[1703005315588611]  now in gallery: 50. statistics: 5 4 3 5 5 --> total visitors for day: 65
+
+thread with id 7 came out from the gallery. 
+[1703005315588618]  now in gallery: 49. statistics: 5 4 3 5 5 --> total visitors for day: 65
+
+thread with id 37 watching at the painting with id = 1 for 2 seconds.
+[1703005315588999]  now in gallery: 49. statistics: 5 5 3 5 5 --> total visitors for day: 65
+
+thread with id 84 entered the gallery. 
+[1703005315594427]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 66
+
+thread with id 36 watched at the painting with id = 0 and goes to another
+[1703005316568723]  now in gallery: 50. statistics: 4 5 3 5 5 --> total visitors for day: 66
+
+thread with id 43 watching at the painting with id = 0 for 6 seconds.
+[1703005316573421]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 66
+
+thread with id 90 watched at the painting with id = 3 and goes to another
+[1703005316574128]  now in gallery: 50. statistics: 5 5 3 4 5 --> total visitors for day: 66
+
+thread with id 16 watched at the painting with id = 1 and goes to another
+[1703005316579582]  now in gallery: 50. statistics: 5 4 3 4 5 --> total visitors for day: 66
+
+thread with id 16 came out from the gallery. 
+[1703005316579589]  now in gallery: 49. statistics: 5 4 3 4 5 --> total visitors for day: 66
+
+thread with id 9 watching at the painting with id = 1 for 4 seconds.
+[1703005316581887]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 67
+
+thread with id 82 entered the gallery. 
+[1703005316582083]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 67
+
+thread with id 14 watching at the painting with id = 3 for 10 seconds.
+[1703005316582118]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 67
+
+thread with id 73 watched at the painting with id = 1 and goes to another
+[1703005316592859]  now in gallery: 50. statistics: 5 4 3 5 5 --> total visitors for day: 67
+
+thread with id 73 watching at the painting with id = 2 for 1 seconds.
+[1703005316592895]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 67
+
+thread with id 40 watching at the painting with id = 1 for 10 seconds.
+[1703005316598309]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 67
+
+thread with id 45 watched at the painting with id = 3 and goes to another
+[1703005317574837]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 67
+
+thread with id 45 came out from the gallery. 
+[1703005317574847]  now in gallery: 49. statistics: 5 5 4 4 5 --> total visitors for day: 67
+
+thread with id 50 entered the gallery. 
+[1703005317579599]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 68
+
+thread with id 12 watching at the painting with id = 3 for 6 seconds.
+[1703005317579644]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 68
+
+thread with id 89 watched at the painting with id = 4 and goes to another
+[1703005317584321]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 68
+
+thread with id 31 watching at the painting with id = 4 for 1 seconds.
+[1703005317584365]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 68
+
+thread with id 37 watched at the painting with id = 1 and goes to another
+[1703005317594189]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 68
+
+thread with id 18 watching at the painting with id = 1 for 5 seconds.
+[1703005317594221]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 68
+
+thread with id 73 watched at the painting with id = 2 and goes to another
+[1703005317597060]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 68
+
+thread with id 79 watched at the painting with id = 0 and goes to another
+[1703005317603223]  now in gallery: 50. statistics: 4 5 3 5 5 --> total visitors for day: 68
+
+thread with id 34 watching at the painting with id = 0 for 10 seconds.
+[1703005317603586]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 68
+
+thread with id 38 watched at the painting with id = 3 and goes to another
+[1703005318569710]  now in gallery: 50. statistics: 5 5 3 4 5 --> total visitors for day: 68
+
+thread with id 48 watching at the painting with id = 3 for 6 seconds.
+[1703005318571986]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 68
+
+thread with id 31 watched at the painting with id = 4 and goes to another
+[1703005318588585]  now in gallery: 50. statistics: 5 5 3 5 4 --> total visitors for day: 68
+
+thread with id 79 watching at the painting with id = 4 for 8 seconds.
+[1703005318590123]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 68
+
+thread with id 23 watched at the painting with id = 2 and goes to another
+[1703005318600431]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 68
+
+thread with id 27 watched at the painting with id = 1 and goes to another
+[1703005319576216]  now in gallery: 50. statistics: 5 4 2 5 5 --> total visitors for day: 68
+
+thread with id 27 watching at the painting with id = 2 for 6 seconds.
+[1703005319576279]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 68
+
+thread with id 87 watching at the painting with id = 1 for 1 seconds.
+[1703005319576336]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 68
+
+thread with id 46 watched at the painting with id = 0 and goes to another
+[1703005319588585]  now in gallery: 50. statistics: 4 5 3 5 5 --> total visitors for day: 68
+
+thread with id 46 came out from the gallery. 
+[1703005319588592]  now in gallery: 49. statistics: 4 5 3 5 5 --> total visitors for day: 68
+
+thread with id 77 entered the gallery. 
+[1703005319591661]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 69
+
+thread with id 30 watching at the painting with id = 0 for 7 seconds.
+[1703005319591695]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 69
+
+thread with id 77 watching at the painting with id = 2 for 5 seconds.
+[1703005319591727]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 69
+
+thread with id 94 watched at the painting with id = 4 and goes to another
+[1703005320572357]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 69
+
+thread with id 96 watched at the painting with id = 0 and goes to another
+[1703005320574524]  now in gallery: 50. statistics: 4 5 4 5 4 --> total visitors for day: 69
+
+thread with id 33 watching at the painting with id = 4 for 1 seconds.
+[1703005320576621]  now in gallery: 50. statistics: 4 5 4 5 5 --> total visitors for day: 69
+
+thread with id 24 watching at the painting with id = 0 for 3 seconds.
+[1703005320578558]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 69
+
+thread with id 87 watched at the painting with id = 1 and goes to another
+[1703005320581191]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 69
+
+thread with id 96 watching at the painting with id = 1 for 8 seconds.
+[1703005320581888]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 69
+
+thread with id 9 watched at the painting with id = 1 and goes to another
+[1703005320586148]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 69
+
+thread with id 9 came out from the gallery. 
+[1703005320586154]  now in gallery: 49. statistics: 5 4 4 5 5 --> total visitors for day: 69
+
+thread with id 89 watching at the painting with id = 1 for 3 seconds.
+[1703005320586246]  now in gallery: 49. statistics: 5 5 4 5 5 --> total visitors for day: 69
+
+thread with id 4 watched at the painting with id = 2 and goes to another
+[1703005320587072]  now in gallery: 49. statistics: 5 5 3 5 5 --> total visitors for day: 69
+
+thread with id 4 came out from the gallery. 
+[1703005320587079]  now in gallery: 48. statistics: 5 5 3 5 5 --> total visitors for day: 70
+
+thread with id 88 entered the gallery. 
+[1703005320587094]  now in gallery: 49. statistics: 5 5 3 5 5 --> total visitors for day: 70
+
+thread with id 93 entered the gallery. 
+[1703005320587124]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 71
+
+thread with id 33 watched at the painting with id = 4 and goes to another
+[1703005321580842]  now in gallery: 50. statistics: 5 5 3 5 4 --> total visitors for day: 71
+
+thread with id 33 came out from the gallery. 
+[1703005321580856]  now in gallery: 49. statistics: 5 5 3 5 4 --> total visitors for day: 71
+
+thread with id 80 entered the gallery. 
+[1703005321580930]  now in gallery: 50. statistics: 5 5 3 5 4 --> total visitors for day: 72
+
+thread with id 82 watching at the painting with id = 4 for 3 seconds.
+[1703005321582299]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 72
+
+thread with id 81 watched at the painting with id = 3 and goes to another
+[1703005321594183]  now in gallery: 50. statistics: 5 5 3 4 5 --> total visitors for day: 72
+
+thread with id 44 watching at the painting with id = 3 for 8 seconds.
+[1703005321599081]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 72
+
+thread with id 28 watched at the painting with id = 0 and goes to another
+[1703005321599578]  now in gallery: 50. statistics: 4 5 3 5 5 --> total visitors for day: 72
+
+thread with id 28 came out from the gallery. 
+[1703005321599587]  now in gallery: 49. statistics: 4 5 3 5 5 --> total visitors for day: 72
+
+thread with id 66 entered the gallery. 
+[1703005321599634]  now in gallery: 50. statistics: 4 5 3 5 5 --> total visitors for day: 73
+
+thread with id 41 watched at the painting with id = 3 and goes to another
+[1703005321601186]  now in gallery: 50. statistics: 4 5 3 4 5 --> total visitors for day: 73
+
+thread with id 23 watching at the painting with id = 0 for 7 seconds.
+[1703005321601278]  now in gallery: 50. statistics: 5 5 3 4 5 --> total visitors for day: 73
+
+thread with id 80 watching at the painting with id = 3 for 10 seconds.
+[1703005321601500]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 73
+
+thread with id 62 watched at the painting with id = 2 and goes to another
+[1703005322573250]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 73
+
+thread with id 43 watched at the painting with id = 0 and goes to another
+[1703005322577924]  now in gallery: 50. statistics: 4 5 2 5 5 --> total visitors for day: 73
+
+thread with id 43 came out from the gallery. 
+[1703005322593523]  now in gallery: 49. statistics: 4 5 2 5 3 --> total visitors for day: 73
+
+thread with id 54 entered the gallery. 
+[1703005322593560]  now in gallery: 50. statistics: 5 5 2 5 3 --> total visitors for day: 74
+
+thread with id 39 watched at the painting with id = 4 and goes to another
+[1703005322593621]  now in gallery: 50. statistics: 5 5 2 5 3 --> total visitors for day: 74
+
+thread with id 39 came out from the gallery. 
+[1703005322593663]  now in gallery: 49. statistics: 5 5 2 5 3 --> total visitors for day: 74
+
+thread with id 72 entered the gallery. 
+[1703005322593706]  now in gallery: 50. statistics: 5 5 2 5 3 --> total visitors for day: 75
+
+thread with id 95 watched at the painting with id = 4 and goes to another
+[1703005322593779]  now in gallery: 50. statistics: 5 5 2 5 3 --> total visitors for day: 75
+
+thread with id 31 watching at the painting with id = 0 for 3 seconds.
+[1703005322593817]  now in gallery: 50. statistics: 5 5 3 5 3 --> total visitors for day: 75
+
+thread with id 95 watching at the painting with id = 2 for 6 seconds.
+[1703005322593866]  now in gallery: 50. statistics: 5 5 3 5 3 --> total visitors for day: 75
+
+thread with id 81 watching at the painting with id = 4 for 1 seconds.
+[1703005322596166]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 75
+
+thread with id 73 watching at the painting with id = 4 for 10 seconds.
+[1703005322596207]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 75
+
+thread with id 18 watched at the painting with id = 1 and goes to another
+[1703005322598817]  now in gallery: 50. statistics: 5 4 3 5 5 --> total visitors for day: 75
+
+thread with id 94 watching at the painting with id = 1 for 5 seconds.
+[1703005322601720]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 75
+
+thread with id 24 watched at the painting with id = 0 and goes to another
+[1703005323581158]  now in gallery: 50. statistics: 4 5 3 5 5 --> total visitors for day: 75
+
+thread with id 37 watching at the painting with id = 0 for 2 seconds.
+[1703005323582113]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 75
+
+thread with id 12 watched at the painting with id = 3 and goes to another
+[1703005323582193]  now in gallery: 50. statistics: 5 5 3 4 5 --> total visitors for day: 75
+
+thread with id 8 watching at the painting with id = 3 for 2 seconds.
+[1703005323590985]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 75
+
+thread with id 89 watched at the painting with id = 1 and goes to another
+[1703005323591020]  now in gallery: 50. statistics: 5 4 3 5 5 --> total visitors for day: 75
+
+thread with id 49 watching at the painting with id = 1 for 3 seconds.
+[1703005323591859]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 75
+
+thread with id 22 watched at the painting with id = 4 and goes to another
+[1703005323591911]  now in gallery: 50. statistics: 5 5 3 5 4 --> total visitors for day: 75
+
+thread with id 74 watching at the painting with id = 4 for 4 seconds.
+[1703005323595547]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 75
+
+thread with id 81 watched at the painting with id = 4 and goes to another
+[1703005323601255]  now in gallery: 50. statistics: 5 5 3 5 4 --> total visitors for day: 75
+
+thread with id 2 watching at the painting with id = 4 for 7 seconds.
+[1703005323601285]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 75
+
+thread with id 81 watching at the painting with id = 2 for 5 seconds.
+[1703005323601297]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 75
+
+thread with id 48 watched at the painting with id = 3 and goes to another
+[1703005324572387]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 75
+
+thread with id 18 watching at the painting with id = 3 for 1 seconds.
+[1703005324579635]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 75
+
+thread with id 82 watched at the painting with id = 4 and goes to another
+[1703005324587004]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 75
+
+thread with id 12 watching at the painting with id = 4 for 5 seconds.
+[1703005324588607]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 75
+
+thread with id 77 watched at the painting with id = 2 and goes to another
+[1703005324596391]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 75
+
+thread with id 27 watched at the painting with id = 2 and goes to another
+[1703005325581484]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 75
+
+thread with id 18 watched at the painting with id = 3 and goes to another
+[1703005325581518]  now in gallery: 50. statistics: 5 5 2 4 5 --> total visitors for day: 75
+
+thread with id 27 watching at the painting with id = 3 for 6 seconds.
+[1703005325581532]  now in gallery: 50. statistics: 5 5 2 5 5 --> total visitors for day: 75
+
+thread with id 37 watched at the painting with id = 0 and goes to another
+[1703005325586844]  now in gallery: 50. statistics: 4 5 2 5 5 --> total visitors for day: 75
+
+thread with id 37 came out from the gallery. 
+[1703005325586851]  now in gallery: 49. statistics: 4 5 2 5 5 --> total visitors for day: 75
+
+thread with id 18 watching at the painting with id = 0 for 3 seconds.
+[1703005325588906]  now in gallery: 49. statistics: 5 4 2 5 5 --> total visitors for day: 75
+
+thread with id 61 watched at the painting with id = 1 and goes to another
+[1703005325588936]  now in gallery: 49. statistics: 5 4 2 5 5 --> total visitors for day: 75
+
+thread with id 61 watching at the painting with id = 2 for 10 seconds.
+[1703005325588968]  now in gallery: 49. statistics: 5 4 3 5 5 --> total visitors for day: 75
+
+thread with id 70 entered the gallery. 
+[1703005325592885]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 76
+
+thread with id 70 watching at the painting with id = 2 for 6 seconds.
+[1703005325592953]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 76
+
+thread with id 50 watching at the painting with id = 1 for 9 seconds.
+[1703005325593002]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 76
+
+thread with id 8 watched at the painting with id = 3 and goes to another
+[1703005325595825]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 76
+
+thread with id 87 watching at the painting with id = 3 for 1 seconds.
+[1703005325597351]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 76
+
+thread with id 31 watched at the painting with id = 0 and goes to another
+[1703005325598651]  now in gallery: 50. statistics: 4 5 4 5 5 --> total visitors for day: 76
+
+thread with id 31 came out from the gallery. 
+[1703005325598659]  now in gallery: 49. statistics: 4 5 4 5 5 --> total visitors for day: 76
+
+thread with id 93 watching at the painting with id = 0 for 2 seconds.
+[1703005325598818]  now in gallery: 49. statistics: 5 5 4 5 5 --> total visitors for day: 76
+
+thread with id 85 entered the gallery. 
+[1703005325598858]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 77
+
+thread with id 85 watching at the painting with id = 2 for 7 seconds.
+[1703005325598904]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 77
+
+thread with id 14 watched at the painting with id = 3 and goes to another
+[1703005326583076]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 77
+
+thread with id 25 watching at the painting with id = 3 for 4 seconds.
+[1703005326583814]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 77
+
+thread with id 79 watched at the painting with id = 4 and goes to another
+[1703005326594811]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 77
+
+thread with id 30 watched at the painting with id = 0 and goes to another
+[1703005326595209]  now in gallery: 50. statistics: 4 4 5 5 4 --> total visitors for day: 77
+
+thread with id 49 watched at the painting with id = 1 and goes to another
+[1703005326595240]  now in gallery: 50. statistics: 4 4 5 5 4 --> total visitors for day: 77
+
+thread with id 79 watching at the painting with id = 1 for 8 seconds.
+[1703005326595337]  now in gallery: 50. statistics: 4 5 5 5 4 --> total visitors for day: 77
+
+thread with id 14 watching at the painting with id = 0 for 1 seconds.
+[1703005326596347]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 77
+
+thread with id 36 watching at the painting with id = 4 for 1 seconds.
+[1703005326598621]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 77
+
+thread with id 87 watched at the painting with id = 3 and goes to another
+[1703005326602240]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 77
+
+thread with id 22 watching at the painting with id = 3 for 9 seconds.
+[1703005326602577]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 77
+
+thread with id 40 watched at the painting with id = 1 and goes to another
+[1703005326603230]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 77
+
+thread with id 62 watching at the painting with id = 1 for 2 seconds.
+[1703005326603334]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 77
+
+thread with id 74 watched at the painting with id = 4 and goes to another
+[1703005327599524]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 77
+
+thread with id 14 watched at the painting with id = 0 and goes to another
+[1703005327599608]  now in gallery: 50. statistics: 4 5 5 5 4 --> total visitors for day: 77
+
+thread with id 72 watching at the painting with id = 0 for 7 seconds.
+[1703005327601760]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 77
+
+thread with id 36 watched at the painting with id = 4 and goes to another
+[1703005327601880]  now in gallery: 50. statistics: 4 5 5 5 4 --> total visitors for day: 77
+
+thread with id 36 came out from the gallery. 
+[1703005327601906]  now in gallery: 49. statistics: 4 5 5 5 4 --> total visitors for day: 77
+
+thread with id 59 watching at the painting with id = 4 for 1 seconds.
+[1703005327601938]  now in gallery: 49. statistics: 4 5 5 5 5 --> total visitors for day: 77
+
+thread with id 93 watched at the painting with id = 0 and goes to another
+[1703005327601980]  now in gallery: 49. statistics: 4 5 5 5 5 --> total visitors for day: 77
+
+thread with id 77 watching at the painting with id = 4 for 8 seconds.
+[1703005327602029]  now in gallery: 49. statistics: 5 5 5 5 5 --> total visitors for day: 77
+
+thread with id 29 watching at the painting with id = 0 for 5 seconds.
+[1703005327602057]  now in gallery: 49. statistics: 5 5 5 5 5 --> total visitors for day: 77
+
+thread with id 75 entered the gallery. 
+[1703005327604396]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 78
+
+thread with id 94 watched at the painting with id = 1 and goes to another
+[1703005327606696]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 78
+
+thread with id 75 watching at the painting with id = 1 for 5 seconds.
+[1703005327608021]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 78
+
+thread with id 34 watched at the painting with id = 0 and goes to another
+[1703005327608058]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 78
+
+thread with id 65 watching at the painting with id = 0 for 7 seconds.
+[1703005327608103]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 78
+
+thread with id 96 watched at the painting with id = 1 and goes to another
+[1703005328583745]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 78
+
+thread with id 24 watching at the painting with id = 1 for 9 seconds.
+[1703005328583804]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 78
+
+thread with id 18 watched at the painting with id = 0 and goes to another
+[1703005328593322]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 78
+
+thread with id 94 watching at the painting with id = 0 for 2 seconds.
+[1703005328593350]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 78
+
+thread with id 95 watched at the painting with id = 2 and goes to another
+[1703005328595268]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 78
+
+thread with id 18 watching at the painting with id = 2 for 9 seconds.
+[1703005328596369]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 78
+
+thread with id 81 watched at the painting with id = 2 and goes to another
+[1703005328605599]  now in gallery: 50. statistics: 4 5 4 5 5 --> total visitors for day: 78
+
+thread with id 23 watched at the painting with id = 0 and goes to another
+[1703005328605635]  now in gallery: 50. statistics: 4 5 4 5 5 --> total visitors for day: 78
+
+thread with id 23 came out from the gallery. 
+[1703005328605641]  now in gallery: 49. statistics: 4 5 4 5 5 --> total visitors for day: 78
+
+thread with id 14 watching at the painting with id = 2 for 10 seconds.
+[1703005328605712]  now in gallery: 49. statistics: 4 5 5 5 5 --> total visitors for day: 78
+
+thread with id 59 watched at the painting with id = 4 and goes to another
+[1703005328606818]  now in gallery: 49. statistics: 4 5 5 5 4 --> total visitors for day: 78
+
+thread with id 95 watching at the painting with id = 0 for 2 seconds.
+[1703005328607427]  now in gallery: 49. statistics: 5 5 5 5 4 --> total visitors for day: 78
+
+thread with id 62 watched at the painting with id = 1 and goes to another
+[1703005328608239]  now in gallery: 49. statistics: 5 4 5 5 4 --> total visitors for day: 78
+
+thread with id 62 watching at the painting with id = 4 for 5 seconds.
+[1703005328608267]  now in gallery: 49. statistics: 5 4 5 5 5 --> total visitors for day: 78
+
+thread with id 81 watching at the painting with id = 1 for 4 seconds.
+[1703005328609699]  now in gallery: 49. statistics: 5 5 5 5 5 --> total visitors for day: 78
+
+thread with id 53 entered the gallery. 
+[1703005328611243]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 79
+
+thread with id 12 watched at the painting with id = 4 and goes to another
+[1703005329590588]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 79
+
+thread with id 12 came out from the gallery. 
+[1703005329590598]  now in gallery: 49. statistics: 5 5 5 5 4 --> total visitors for day: 79
+
+thread with id 91 entered the gallery. 
+[1703005329594837]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 80
+
+thread with id 91 watching at the painting with id = 4 for 2 seconds.
+[1703005329594914]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 80
+
+thread with id 44 watched at the painting with id = 3 and goes to another
+[1703005329604070]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 80
+
+thread with id 54 watching at the painting with id = 3 for 2 seconds.
+[1703005329607254]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 80
+
+thread with id 25 watched at the painting with id = 3 and goes to another
+[1703005330588617]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 80
+
+thread with id 30 watching at the painting with id = 3 for 8 seconds.
+[1703005330589398]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 80
+
+thread with id 94 watched at the painting with id = 0 and goes to another
+[1703005330597293]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 80
+
+thread with id 44 watching at the painting with id = 0 for 6 seconds.
+[1703005330597416]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 80
+
+thread with id 2 watched at the painting with id = 4 and goes to another
+[1703005330606482]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 80
+
+thread with id 2 came out from the gallery. 
+[1703005330606489]  now in gallery: 49. statistics: 5 5 5 5 4 --> total visitors for day: 80
+
+thread with id 8 watching at the painting with id = 4 for 4 seconds.
+[1703005330606653]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 81
+
+thread with id 57 entered the gallery. 
+[1703005330606784]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 81
+
+thread with id 95 watched at the painting with id = 0 and goes to another
+[1703005330612206]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 81
+
+thread with id 95 came out from the gallery. 
+[1703005330612213]  now in gallery: 49. statistics: 4 5 5 5 5 --> total visitors for day: 81
+
+thread with id 64 entered the gallery. 
+[1703005330612926]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 82
+
+thread with id 57 watching at the painting with id = 0 for 7 seconds.
+[1703005330613331]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 82
+
+thread with id 27 watched at the painting with id = 3 and goes to another
+[1703005331586113]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 82
+
+thread with id 27 came out from the gallery. 
+[1703005331586124]  now in gallery: 49. statistics: 5 5 5 4 5 --> total visitors for day: 82
+
+thread with id 98 entered the gallery. 
+[1703005331586147]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 83
+
+thread with id 94 watching at the painting with id = 3 for 2 seconds.
+[1703005331592482]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 83
+
+thread with id 70 watched at the painting with id = 2 and goes to another
+[1703005331597769]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 83
+
+thread with id 91 watched at the painting with id = 4 and goes to another
+[1703005331599602]  now in gallery: 50. statistics: 5 5 4 5 4 --> total visitors for day: 83
+
+thread with id 74 watching at the painting with id = 2 for 8 seconds.
+[1703005331602238]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 83
+
+thread with id 35 watching at the painting with id = 4 for 4 seconds.
+[1703005331602350]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 83
+
+thread with id 80 watched at the painting with id = 3 and goes to another
+[1703005331606541]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 83
+
+thread with id 54 watched at the painting with id = 3 and goes to another
+[1703005331612116]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 83
+
+thread with id 73 watched at the painting with id = 4 and goes to another
+[1703005332600578]  now in gallery: 50. statistics: 5 5 5 3 4 --> total visitors for day: 83
+
+thread with id 73 watching at the painting with id = 3 for 4 seconds.
+[1703005332600679]  now in gallery: 50. statistics: 5 5 5 4 4 --> total visitors for day: 83
+
+thread with id 6 watching at the painting with id = 4 for 8 seconds.
+[1703005332600720]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 83
+
+thread with id 85 watched at the painting with id = 2 and goes to another
+[1703005332602763]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 83
+
+thread with id 85 watching at the painting with id = 3 for 1 seconds.
+[1703005332602806]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 83
+
+thread with id 29 watched at the painting with id = 0 and goes to another
+[1703005332605312]  now in gallery: 50. statistics: 4 5 4 5 5 --> total visitors for day: 83
+
+thread with id 29 watching at the painting with id = 2 for 3 seconds.
+[1703005332605343]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 83
+
+thread with id 82 watching at the painting with id = 0 for 7 seconds.
+[1703005332605411]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 83
+
+thread with id 75 watched at the painting with id = 1 and goes to another
+[1703005332612849]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 83
+
+thread with id 81 watched at the painting with id = 1 and goes to another
+[1703005332614219]  now in gallery: 50. statistics: 5 3 5 5 5 --> total visitors for day: 83
+
+thread with id 38 watching at the painting with id = 1 for 6 seconds.
+[1703005332614280]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 83
+
+thread with id 91 watching at the painting with id = 1 for 4 seconds.
+[1703005332614351]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 83
+
+thread with id 94 watched at the painting with id = 3 and goes to another
+[1703005333595441]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 83
+
+thread with id 75 watching at the painting with id = 3 for 2 seconds.
+[1703005333605390]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 83
+
+thread with id 85 watched at the painting with id = 3 and goes to another
+[1703005333605430]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 83
+
+thread with id 62 watched at the painting with id = 4 and goes to another
+[1703005333611854]  now in gallery: 50. statistics: 5 5 5 4 4 --> total visitors for day: 83
+
+thread with id 64 watching at the painting with id = 4 for 7 seconds.
+[1703005333613675]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 83
+
+thread with id 50 watched at the painting with id = 1 and goes to another
+[1703005334598223]  now in gallery: 50. statistics: 5 4 5 4 5 --> total visitors for day: 83
+
+thread with id 79 watched at the painting with id = 1 and goes to another
+[1703005334600446]  now in gallery: 50. statistics: 5 3 5 4 5 --> total visitors for day: 83
+
+thread with id 79 watching at the painting with id = 3 for 2 seconds.
+[1703005334600502]  now in gallery: 50. statistics: 5 3 5 5 5 --> total visitors for day: 83
+
+thread with id 70 watching at the painting with id = 1 for 2 seconds.
+[1703005334602072]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 83
+
+thread with id 34 watching at the painting with id = 1 for 2 seconds.
+[1703005334602120]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 83
+
+thread with id 72 watched at the painting with id = 0 and goes to another
+[1703005334605356]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 83
+
+thread with id 50 watching at the painting with id = 0 for 10 seconds.
+[1703005334607630]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 83
+
+thread with id 8 watched at the painting with id = 4 and goes to another
+[1703005334611171]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 83
+
+thread with id 42 watching at the painting with id = 4 for 8 seconds.
+[1703005334611259]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 83
+
+thread with id 65 watched at the painting with id = 0 and goes to another
+[1703005334612029]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 83
+
+thread with id 85 watching at the painting with id = 0 for 3 seconds.
+[1703005334612225]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 83
+
+thread with id 61 watched at the painting with id = 2 and goes to another
+[1703005335593289]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 83
+
+thread with id 72 watching at the painting with id = 2 for 4 seconds.
+[1703005335593802]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 83
+
+thread with id 77 watched at the painting with id = 4 and goes to another
+[1703005335606866]  now in gallery: 50. statistics: 5 5 5 4 3 --> total visitors for day: 83
+
+thread with id 35 watched at the painting with id = 4 and goes to another
+[1703005335606897]  now in gallery: 50. statistics: 5 5 5 4 3 --> total visitors for day: 83
+
+thread with id 35 came out from the gallery. 
+[1703005335606911]  now in gallery: 49. statistics: 5 5 5 4 3 --> total visitors for day: 83
+
+thread with id 22 watched at the painting with id = 3 and goes to another
+[1703005335606969]  now in gallery: 49. statistics: 5 5 5 4 3 --> total visitors for day: 83
+
+thread with id 29 watched at the painting with id = 2 and goes to another
+[1703005335608905]  now in gallery: 49. statistics: 5 5 4 3 3 --> total visitors for day: 83
+
+thread with id 75 watched at the painting with id = 3 and goes to another
+[1703005335608963]  now in gallery: 49. statistics: 5 5 4 3 3 --> total visitors for day: 83
+
+thread with id 59 watching at the painting with id = 2 for 2 seconds.
+[1703005335610151]  now in gallery: 49. statistics: 5 5 5 3 3 --> total visitors for day: 83
+
+thread with id 67 entered the gallery. 
+[1703005335612021]  now in gallery: 50. statistics: 5 5 5 3 3 --> total visitors for day: 84
+
+thread with id 88 watching at the painting with id = 4 for 7 seconds.
+[1703005335612062]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 84
+
+thread with id 84 watching at the painting with id = 4 for 9 seconds.
+[1703005335612095]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 84
+
+thread with id 67 watching at the painting with id = 3 for 5 seconds.
+[1703005335612122]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 84
+
+thread with id 44 watched at the painting with id = 0 and goes to another
+[1703005336600889]  now in gallery: 50. statistics: 4 5 5 4 5 --> total visitors for day: 84
+
+thread with id 44 came out from the gallery. 
+[1703005336600902]  now in gallery: 49. statistics: 4 5 5 4 5 --> total visitors for day: 84
+
+thread with id 71 entered the gallery. 
+[1703005336602630]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 85
+
+thread with id 90 watching at the painting with id = 0 for 1 seconds.
+[1703005336602765]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 85
+
+thread with id 79 watched at the painting with id = 3 and goes to another
+[1703005336605233]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 85
+
+thread with id 79 came out from the gallery. 
+[1703005336605239]  now in gallery: 49. statistics: 5 5 5 3 5 --> total visitors for day: 85
+
+thread with id 99 entered the gallery. 
+[1703005336605455]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 86
+
+thread with id 99 watching at the painting with id = 3 for 4 seconds.
+[1703005336605531]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 86
+
+thread with id 73 watched at the painting with id = 3 and goes to another
+[1703005336605712]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 86
+
+thread with id 70 watched at the painting with id = 1 and goes to another
+[1703005336607111]  now in gallery: 50. statistics: 5 3 5 3 5 --> total visitors for day: 86
+
+thread with id 34 watched at the painting with id = 1 and goes to another
+[1703005336607134]  now in gallery: 50. statistics: 5 3 5 3 5 --> total visitors for day: 86
+
+thread with id 41 watching at the painting with id = 1 for 8 seconds.
+[1703005336607990]  now in gallery: 50. statistics: 5 4 5 3 5 --> total visitors for day: 86
+
+thread with id 83 watching at the painting with id = 1 for 10 seconds.
+[1703005336608010]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 86
+
+thread with id 91 watched at the painting with id = 1 and goes to another
+[1703005336619374]  now in gallery: 50. statistics: 5 4 5 3 5 --> total visitors for day: 86
+
+thread with id 22 watching at the painting with id = 1 for 1 seconds.
+[1703005336619401]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 86
+
+thread with id 24 watched at the painting with id = 1 and goes to another
+[1703005337588672]  now in gallery: 50. statistics: 5 4 5 3 5 --> total visitors for day: 86
+
+thread with id 24 came out from the gallery. 
+[1703005337588687]  now in gallery: 49. statistics: 5 4 5 3 5 --> total visitors for day: 86
+
+thread with id 52 entered the gallery. 
+[1703005337591676]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 87
+
+thread with id 77 watching at the painting with id = 1 for 7 seconds.
+[1703005337591817]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 87
+
+thread with id 18 watched at the painting with id = 2 and goes to another
+[1703005337601495]  now in gallery: 50. statistics: 5 5 4 3 5 --> total visitors for day: 87
+
+thread with id 18 came out from the gallery. 
+[1703005337601507]  now in gallery: 49. statistics: 5 5 5 3 5 --> total visitors for day: 87
+
+thread with id 55 entered the gallery. 
+[1703005337601674]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 88
+
+thread with id 93 watching at the painting with id = 2 for 10 seconds.
+[1703005337601711]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 88
+
+thread with id 90 watched at the painting with id = 0 and goes to another
+[1703005337607775]  now in gallery: 50. statistics: 4 5 5 3 5 --> total visitors for day: 88
+
+thread with id 55 watching at the painting with id = 0 for 2 seconds.
+[1703005337608095]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 88
+
+thread with id 59 watched at the painting with id = 2 and goes to another
+[1703005337613728]  now in gallery: 50. statistics: 5 5 4 3 5 --> total visitors for day: 88
+
+thread with id 94 watching at the painting with id = 2 for 2 seconds.
+[1703005337615404]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 88
+
+thread with id 85 watched at the painting with id = 0 and goes to another
+[1703005337616857]  now in gallery: 50. statistics: 4 5 5 3 5 --> total visitors for day: 88
+
+thread with id 70 watching at the painting with id = 0 for 1 seconds.
+[1703005337616876]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 88
+
+thread with id 57 watched at the painting with id = 0 and goes to another
+[1703005337618374]  now in gallery: 50. statistics: 4 5 5 3 5 --> total visitors for day: 88
+
+thread with id 61 watching at the painting with id = 0 for 8 seconds.
+[1703005337618397]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 88
+
+thread with id 57 watching at the painting with id = 3 for 10 seconds.
+[1703005337618415]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 88
+
+thread with id 22 watched at the painting with id = 1 and goes to another
+[1703005337623704]  now in gallery: 50. statistics: 5 4 5 4 5 --> total visitors for day: 88
+
+thread with id 22 came out from the gallery. 
+[1703005337623711]  now in gallery: 49. statistics: 5 4 5 4 5 --> total visitors for day: 88
+
+thread with id 85 watching at the painting with id = 1 for 1 seconds.
+[1703005337626532]  now in gallery: 49. statistics: 5 5 5 4 5 --> total visitors for day: 88
+
+thread with id 69 entered the gallery. 
+[1703005337627297]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 89
+
+thread with id 30 watched at the painting with id = 3 and goes to another
+[1703005338592180]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 89
+
+thread with id 14 watched at the painting with id = 2 and goes to another
+[1703005338608748]  now in gallery: 50. statistics: 5 5 4 3 5 --> total visitors for day: 89
+
+thread with id 91 watching at the painting with id = 2 for 7 seconds.
+[1703005338610903]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 89
+
+thread with id 38 watched at the painting with id = 1 and goes to another
+[1703005338619321]  now in gallery: 50. statistics: 5 4 5 3 5 --> total visitors for day: 89
+
+thread with id 38 came out from the gallery. 
+[1703005338619331]  now in gallery: 49. statistics: 5 4 5 3 5 --> total visitors for day: 89
+
+thread with id 48 watching at the painting with id = 1 for 2 seconds.
+[1703005338619361]  now in gallery: 49. statistics: 5 5 5 3 5 --> total visitors for day: 90
+
+thread with id 58 entered the gallery. 
+[1703005338619385]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 90
+
+thread with id 70 watched at the painting with id = 0 and goes to another
+[1703005338621933]  now in gallery: 50. statistics: 4 5 5 3 5 --> total visitors for day: 90
+
+thread with id 75 watching at the painting with id = 0 for 10 seconds.
+[1703005338623020]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 90
+
+thread with id 85 watched at the painting with id = 1 and goes to another
+[1703005338630660]  now in gallery: 50. statistics: 5 4 5 3 5 --> total visitors for day: 90
+
+thread with id 29 watching at the painting with id = 1 for 2 seconds.
+[1703005338632562]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 90
+
+thread with id 72 watched at the painting with id = 2 and goes to another
+[1703005339596838]  now in gallery: 50. statistics: 5 5 4 3 5 --> total visitors for day: 90
+
+thread with id 58 watching at the painting with id = 2 for 5 seconds.
+[1703005339599870]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 90
+
+thread with id 74 watched at the painting with id = 2 and goes to another
+[1703005339606825]  now in gallery: 50. statistics: 5 5 4 3 5 --> total visitors for day: 90
+
+thread with id 71 watching at the painting with id = 2 for 6 seconds.
+[1703005339608174]  now in gallery: 50. statistics: 5 5 5 3 5 --> total visitors for day: 90
+
+thread with id 82 watched at the painting with id = 0 and goes to another
+[1703005339609976]  now in gallery: 50. statistics: 4 5 5 3 5 --> total visitors for day: 90
+
+thread with id 82 watching at the painting with id = 3 for 10 seconds.
+[1703005339610012]  now in gallery: 50. statistics: 4 5 5 4 5 --> total visitors for day: 90
+
+thread with id 55 watched at the painting with id = 0 and goes to another
+[1703005339612381]  now in gallery: 50. statistics: 3 5 5 4 5 --> total visitors for day: 90
+
+thread with id 98 watching at the painting with id = 0 for 9 seconds.
+[1703005339619328]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 90
+
+thread with id 94 watched at the painting with id = 2 and goes to another
+[1703005339619395]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 90
+
+thread with id 94 came out from the gallery. 
+[1703005339619415]  now in gallery: 49. statistics: 5 5 4 4 5 --> total visitors for day: 90
+
+thread with id 60 entered the gallery. 
+[1703005339619437]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 91
+
+thread with id 89 watching at the painting with id = 0 for 4 seconds.
+[1703005339619476]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 91
+
+thread with id 60 watching at the painting with id = 3 for 5 seconds.
+[1703005339619505]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 91
+
+thread with id 53 watching at the painting with id = 2 for 2 seconds.
+[1703005339620799]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 91
+
+thread with id 6 watched at the painting with id = 4 and goes to another
+[1703005340605279]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 91
+
+thread with id 65 watching at the painting with id = 4 for 4 seconds.
+[1703005340605357]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 91
+
+thread with id 99 watched at the painting with id = 3 and goes to another
+[1703005340606827]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 91
+
+thread with id 6 watching at the painting with id = 3 for 6 seconds.
+[1703005340607704]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 91
+
+thread with id 67 watched at the painting with id = 3 and goes to another
+[1703005340614333]  now in gallery: 50. statistics: 5 5 5 4 4 --> total visitors for day: 91
+
+thread with id 64 watched at the painting with id = 4 and goes to another
+[1703005340614440]  now in gallery: 50. statistics: 5 5 5 4 4 --> total visitors for day: 91
+
+thread with id 85 watching at the painting with id = 4 for 6 seconds.
+[1703005340614478]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 91
+
+thread with id 48 watched at the painting with id = 1 and goes to another
+[1703005340623623]  now in gallery: 50. statistics: 5 4 5 4 5 --> total visitors for day: 91
+
+thread with id 48 came out from the gallery. 
+[1703005340623633]  now in gallery: 49. statistics: 5 4 5 4 5 --> total visitors for day: 91
+
+thread with id 74 watching at the painting with id = 1 for 2 seconds.
+[1703005340623654]  now in gallery: 49. statistics: 5 5 5 4 5 --> total visitors for day: 91
+
+thread with id 68 entered the gallery. 
+[1703005340633177]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 92
+
+thread with id 68 watching at the painting with id = 3 for 7 seconds.
+[1703005340633423]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 92
+
+thread with id 29 watched at the painting with id = 1 and goes to another
+[1703005340636531]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 92
+
+thread with id 14 watching at the painting with id = 1 for 2 seconds.
+[1703005340638650]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 92
+
+thread with id 53 watched at the painting with id = 2 and goes to another
+[1703005341621932]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 92
+
+thread with id 64 watching at the painting with id = 2 for 10 seconds.
+[1703005341627379]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 92
+
+thread with id 42 watched at the painting with id = 4 and goes to another
+[1703005342614933]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 92
+
+thread with id 42 came out from the gallery. 
+[1703005342614941]  now in gallery: 49. statistics: 5 5 5 5 4 --> total visitors for day: 92
+
+thread with id 34 watching at the painting with id = 4 for 5 seconds.
+[1703005342615084]  now in gallery: 49. statistics: 5 5 5 5 5 --> total visitors for day: 92
+
+thread with id 76 entered the gallery. 
+[1703005342615154]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 93
+
+thread with id 88 watched at the painting with id = 4 and goes to another
+[1703005342616009]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 93
+
+thread with id 99 watching at the painting with id = 4 for 10 seconds.
+[1703005342616032]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 93
+
+thread with id 74 watched at the painting with id = 1 and goes to another
+[1703005342628676]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 93
+
+thread with id 66 watching at the painting with id = 1 for 1 seconds.
+[1703005342632200]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 93
+
+thread with id 14 watched at the painting with id = 1 and goes to another
+[1703005342642894]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 93
+
+thread with id 14 came out from the gallery. 
+[1703005342642902]  now in gallery: 49. statistics: 5 4 5 5 5 --> total visitors for day: 93
+
+thread with id 53 watching at the painting with id = 1 for 4 seconds.
+[1703005342644292]  now in gallery: 49. statistics: 5 5 5 5 5 --> total visitors for day: 93
+
+thread with id 86 entered the gallery. 
+[1703005342644479]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 94
+
+thread with id 89 watched at the painting with id = 0 and goes to another
+[1703005343622074]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 94
+
+thread with id 81 watching at the painting with id = 0 for 7 seconds.
+[1703005343622127]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 94
+
+thread with id 66 watched at the painting with id = 1 and goes to another
+[1703005343636312]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 94
+
+thread with id 90 watching at the painting with id = 1 for 2 seconds.
+[1703005343639358]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 94
+
+thread with id 77 watched at the painting with id = 1 and goes to another
+[1703005344592301]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 94
+
+thread with id 72 watching at the painting with id = 1 for 4 seconds.
+[1703005344597998]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 94
+
+thread with id 58 watched at the painting with id = 2 and goes to another
+[1703005344601123]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 94
+
+thread with id 8 watching at the painting with id = 2 for 6 seconds.
+[1703005344606886]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 94
+
+thread with id 65 watched at the painting with id = 4 and goes to another
+[1703005344608665]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 94
+
+thread with id 50 watched at the painting with id = 0 and goes to another
+[1703005344612394]  now in gallery: 50. statistics: 4 4 5 5 4 --> total visitors for day: 94
+
+thread with id 41 watched at the painting with id = 1 and goes to another
+[1703005344612433]  now in gallery: 50. statistics: 4 4 5 5 4 --> total visitors for day: 94
+
+thread with id 50 watching at the painting with id = 4 for 8 seconds.
+[1703005344612441]  now in gallery: 50. statistics: 4 4 5 5 5 --> total visitors for day: 94
+
+thread with id 58 watching at the painting with id = 0 for 1 seconds.
+[1703005344613218]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 94
+
+thread with id 84 watched at the painting with id = 4 and goes to another
+[1703005344616858]  now in gallery: 50. statistics: 5 4 5 5 4 --> total visitors for day: 94
+
+thread with id 55 watching at the painting with id = 4 for 1 seconds.
+[1703005344616922]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 94
+
+thread with id 76 watching at the painting with id = 1 for 5 seconds.
+[1703005344618606]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 94
+
+thread with id 60 watched at the painting with id = 3 and goes to another
+[1703005344624300]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 94
+
+thread with id 29 watching at the painting with id = 3 for 6 seconds.
+[1703005344625541]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 94
+
+thread with id 71 watched at the painting with id = 2 and goes to another
+[1703005345611037]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 94
+
+thread with id 30 watching at the painting with id = 2 for 9 seconds.
+[1703005345611528]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 94
+
+thread with id 58 watched at the painting with id = 0 and goes to another
+[1703005345615239]  now in gallery: 50. statistics: 4 5 4 5 5 --> total visitors for day: 94
+
+thread with id 59 watching at the painting with id = 0 for 1 seconds.
+[1703005345615339]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 94
+
+thread with id 91 watched at the painting with id = 2 and goes to another
+[1703005345615392]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 94
+
+thread with id 96 watching at the painting with id = 2 for 7 seconds.
+[1703005345615561]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 94
+
+thread with id 55 watched at the painting with id = 4 and goes to another
+[1703005345621940]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 94
+
+thread with id 61 watched at the painting with id = 0 and goes to another
+[1703005345622836]  now in gallery: 50. statistics: 4 5 5 5 4 --> total visitors for day: 94
+
+thread with id 73 watching at the painting with id = 0 for 6 seconds.
+[1703005345623009]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 94
+
+thread with id 70 watching at the painting with id = 4 for 4 seconds.
+[1703005345625204]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 94
+
+thread with id 90 watched at the painting with id = 1 and goes to another
+[1703005345642676]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 94
+
+thread with id 58 watching at the painting with id = 1 for 7 seconds.
+[1703005345647903]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 94
+
+thread with id 83 watched at the painting with id = 1 and goes to another
+[1703005346610356]  now in gallery: 50. statistics: 5 4 5 4 5 --> total visitors for day: 94
+
+thread with id 6 watched at the painting with id = 3 and goes to another
+[1703005346610376]  now in gallery: 50. statistics: 5 4 5 4 5 --> total visitors for day: 94
+
+thread with id 71 watching at the painting with id = 3 for 10 seconds.
+[1703005346614314]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 94
+
+thread with id 85 watched at the painting with id = 4 and goes to another
+[1703005346619189]  now in gallery: 50. statistics: 5 4 5 5 4 --> total visitors for day: 94
+
+thread with id 85 came out from the gallery. 
+[1703005346619194]  now in gallery: 49. statistics: 5 4 5 5 4 --> total visitors for day: 94
+
+thread with id 59 watched at the painting with id = 0 and goes to another
+[1703005346619318]  now in gallery: 49. statistics: 4 4 5 5 5 --> total visitors for day: 94
+
+thread with id 60 watching at the painting with id = 4 for 8 seconds.
+[1703005346619339]  now in gallery: 49. statistics: 4 4 5 5 5 --> total visitors for day: 94
+
+thread with id 59 watching at the painting with id = 1 for 9 seconds.
+[1703005346619350]  now in gallery: 49. statistics: 4 5 5 5 5 --> total visitors for day: 94
+
+thread with id 51 entered the gallery. 
+[1703005346622328]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 95
+
+thread with id 54 watching at the painting with id = 0 for 3 seconds.
+[1703005346623317]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 95
+
+thread with id 53 watched at the painting with id = 1 and goes to another
+[1703005346645582]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 95
+
+thread with id 93 watched at the painting with id = 2 and goes to another
+[1703005347605618]  now in gallery: 50. statistics: 5 4 4 5 5 --> total visitors for day: 95
+
+thread with id 93 watching at the painting with id = 1 for 6 seconds.
+[1703005347605671]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 95
+
+thread with id 51 watching at the painting with id = 2 for 5 seconds.
+[1703005347607563]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 95
+
+thread with id 34 watched at the painting with id = 4 and goes to another
+[1703005347619456]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 95
+
+thread with id 34 came out from the gallery. 
+[1703005347619467]  now in gallery: 49. statistics: 5 5 5 5 4 --> total visitors for day: 95
+
+thread with id 63 entered the gallery. 
+[1703005347621951]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 96
+
+thread with id 87 watching at the painting with id = 4 for 9 seconds.
+[1703005347621974]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 96
+
+thread with id 57 watched at the painting with id = 3 and goes to another
+[1703005347623459]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 96
+
+thread with id 61 watching at the painting with id = 3 for 4 seconds.
+[1703005347623590]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 96
+
+thread with id 68 watched at the painting with id = 3 and goes to another
+[1703005347638612]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 96
+
+thread with id 86 watching at the painting with id = 3 for 1 seconds.
+[1703005347640488]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 96
+
+thread with id 72 watched at the painting with id = 1 and goes to another
+[1703005348601069]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 96
+
+thread with id 98 watched at the painting with id = 0 and goes to another
+[1703005348622059]  now in gallery: 50. statistics: 4 4 5 5 5 --> total visitors for day: 96
+
+thread with id 80 watching at the painting with id = 0 for 4 seconds.
+[1703005348626527]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 96
+
+thread with id 75 watched at the painting with id = 0 and goes to another
+[1703005348626616]  now in gallery: 50. statistics: 4 4 5 5 5 --> total visitors for day: 96
+
+thread with id 62 watching at the painting with id = 0 for 7 seconds.
+[1703005348626670]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 96
+
+thread with id 86 watched at the painting with id = 3 and goes to another
+[1703005348643837]  now in gallery: 50. statistics: 5 4 5 4 5 --> total visitors for day: 96
+
+thread with id 86 watching at the painting with id = 1 for 10 seconds.
+[1703005348643988]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 96
+
+thread with id 53 watching at the painting with id = 3 for 3 seconds.
+[1703005348652455]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 96
+
+thread with id 82 watched at the painting with id = 3 and goes to another
+[1703005349613349]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 96
+
+thread with id 91 watching at the painting with id = 3 for 4 seconds.
+[1703005349619205]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 96
+
+thread with id 76 watched at the painting with id = 1 and goes to another
+[1703005349621930]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 96
+
+thread with id 54 watched at the painting with id = 0 and goes to another
+[1703005349624020]  now in gallery: 50. statistics: 4 4 5 5 5 --> total visitors for day: 96
+
+thread with id 54 watching at the painting with id = 1 for 5 seconds.
+[1703005349624049]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 96
+
+thread with id 68 watching at the painting with id = 0 for 4 seconds.
+[1703005349627577]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 96
+
+thread with id 70 watched at the painting with id = 4 and goes to another
+[1703005349630048]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 96
+
+thread with id 72 watching at the painting with id = 4 for 9 seconds.
+[1703005349636868]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 96
+
+thread with id 8 watched at the painting with id = 2 and goes to another
+[1703005350611378]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 96
+
+thread with id 8 came out from the gallery. 
+[1703005350611388]  now in gallery: 49. statistics: 5 5 4 5 5 --> total visitors for day: 96
+
+thread with id 56 entered the gallery. 
+[1703005350617645]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 97
+
+thread with id 41 watching at the painting with id = 2 for 3 seconds.
+[1703005350617701]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 97
+
+thread with id 81 watched at the painting with id = 0 and goes to another
+[1703005350627133]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 97
+
+thread with id 81 came out from the gallery. 
+[1703005350627141]  now in gallery: 49. statistics: 4 5 5 5 5 --> total visitors for day: 97
+
+thread with id 77 watching at the painting with id = 0 for 5 seconds.
+[1703005350628131]  now in gallery: 49. statistics: 5 5 5 5 5 --> total visitors for day: 97
+
+thread with id 92 entered the gallery. 
+[1703005350629363]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 98
+
+thread with id 29 watched at the painting with id = 3 and goes to another
+[1703005350629419]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 98
+
+thread with id 29 came out from the gallery. 
+[1703005350629425]  now in gallery: 49. statistics: 5 5 5 4 5 --> total visitors for day: 98
+
+thread with id 97 entered the gallery. 
+[1703005350629439]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 99
+
+thread with id 70 watching at the painting with id = 3 for 4 seconds.
+[1703005350636257]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 99
+
+thread with id 73 watched at the painting with id = 0 and goes to another
+[1703005351626359]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 99
+
+thread with id 73 came out from the gallery. 
+[1703005351626369]  now in gallery: 49. statistics: 4 5 5 5 5 --> total visitors for day: 99
+
+thread with id 61 watched at the painting with id = 3 and goes to another
+[1703005351627340]  now in gallery: 49. statistics: 4 5 5 4 5 --> total visitors for day: 99
+
+thread with id 40 watching at the painting with id = 0 for 2 seconds.
+[1703005351627687]  now in gallery: 49. statistics: 5 5 5 4 5 --> total visitors for day: 99
+
+thread with id 63 watching at the painting with id = 3 for 4 seconds.
+[1703005351632087]  now in gallery: 49. statistics: 5 5 5 5 5 --> total visitors for day: 99
+
+thread with id 64 watched at the painting with id = 2 and goes to another
+[1703005351632130]  now in gallery: 49. statistics: 5 5 4 5 5 --> total visitors for day: 99
+
+thread with id 78 entered the gallery. 
+[1703005351632201]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 100
+
+thread with id 83 watching at the painting with id = 2 for 8 seconds.
+[1703005351633798]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 53 watched at the painting with id = 3 and goes to another
+[1703005351656811]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 100
+
+thread with id 65 watching at the painting with id = 3 for 4 seconds.
+[1703005351657408]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 51 watched at the painting with id = 2 and goes to another
+[1703005352611413]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 100
+
+thread with id 88 watching at the painting with id = 2 for 2 seconds.
+[1703005352612647]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 50 watched at the painting with id = 4 and goes to another
+[1703005352617456]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 100
+
+thread with id 53 watching at the painting with id = 4 for 1 seconds.
+[1703005352618359]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 96 watched at the painting with id = 2 and goes to another
+[1703005352620607]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 100
+
+thread with id 55 watching at the painting with id = 2 for 5 seconds.
+[1703005352620638]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 100
+
+thread with id 99 watched at the painting with id = 4 and goes to another
+[1703005352620670]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 100
+
+thread with id 96 watching at the painting with id = 4 for 8 seconds.
+[1703005352620687]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 80 watched at the painting with id = 0 and goes to another
+[1703005352628530]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 100
+
+thread with id 69 watching at the painting with id = 0 for 5 seconds.
+[1703005352635933]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 58 watched at the painting with id = 1 and goes to another
+[1703005352651058]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 100
+
+thread with id 99 watching at the painting with id = 1 for 4 seconds.
+[1703005352655407]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 93 watched at the painting with id = 1 and goes to another
+[1703005353608893]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 100
+
+thread with id 64 watching at the painting with id = 1 for 10 seconds.
+[1703005353611478]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 41 watched at the painting with id = 2 and goes to another
+[1703005353622338]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 100
+
+thread with id 53 watched at the painting with id = 4 and goes to another
+[1703005353623387]  now in gallery: 50. statistics: 5 5 4 4 4 --> total visitors for day: 100
+
+thread with id 91 watched at the painting with id = 3 and goes to another
+[1703005353623421]  now in gallery: 50. statistics: 5 5 4 4 4 --> total visitors for day: 100
+
+thread with id 41 watching at the painting with id = 4 for 2 seconds.
+[1703005353624059]  now in gallery: 50. statistics: 5 5 4 4 5 --> total visitors for day: 100
+
+thread with id 98 watching at the painting with id = 2 for 7 seconds.
+[1703005353626093]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 74 watching at the painting with id = 3 for 2 seconds.
+[1703005353626255]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 68 watched at the painting with id = 0 and goes to another
+[1703005353631580]  now in gallery: 50. statistics: 3 5 5 5 5 --> total visitors for day: 100
+
+thread with id 40 watched at the painting with id = 0 and goes to another
+[1703005353631613]  now in gallery: 50. statistics: 3 5 5 5 5 --> total visitors for day: 100
+
+thread with id 53 watching at the painting with id = 0 for 10 seconds.
+[1703005353632338]  now in gallery: 50. statistics: 4 5 5 5 5 --> total visitors for day: 100
+
+thread with id 91 watching at the painting with id = 0 for 6 seconds.
+[1703005353634652]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 30 watched at the painting with id = 2 and goes to another
+[1703005354614826]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 100
+
+thread with id 88 watched at the painting with id = 2 and goes to another
+[1703005354614889]  now in gallery: 50. statistics: 5 5 3 5 5 --> total visitors for day: 100
+
+thread with id 67 watching at the painting with id = 2 for 10 seconds.
+[1703005354614974]  now in gallery: 50. statistics: 5 5 4 5 5 --> total visitors for day: 100
+
+thread with id 75 watching at the painting with id = 2 for 6 seconds.
+[1703005354623446]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 60 watched at the painting with id = 4 and goes to another
+[1703005354623514]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 100
+
+thread with id 80 watching at the painting with id = 4 for 10 seconds.
+[1703005354624052]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 54 watched at the painting with id = 1 and goes to another
+[1703005354625933]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 100
+
+thread with id 60 watching at the painting with id = 1 for 6 seconds.
+[1703005354627110]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 70 watched at the painting with id = 3 and goes to another
+[1703005354641017]  now in gallery: 50. statistics: 5 5 5 4 5 --> total visitors for day: 100
+
+thread with id 70 came out from the gallery. 
+[1703005354641026]  now in gallery: 49. statistics: 5 5 5 4 5 --> total visitors for day: 100
+
+thread with id 50 watching at the painting with id = 3 for 9 seconds.
+[1703005354642209]  now in gallery: 49. statistics: 5 5 5 5 5 --> total visitors for day: 100
+
+thread with id 100 entered the gallery. 
+[1703005354642261]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 101
+
+thread with id 59 watched at the painting with id = 1 and goes to another
+[1703005355623403]  now in gallery: 50. statistics: 5 4 5 5 5 --> total visitors for day: 101
+
+thread with id 30 watching at the painting with id = 1 for 1 seconds.
+[1703005355623862]  now in gallery: 50. statistics: 5 5 5 5 5 --> total visitors for day: 101
+
+thread with id 41 watched at the painting with id = 4 and goes to another
+[1703005355629017]  now in gallery: 50. statistics: 5 5 5 5 4 --> total visitors for day: 101
+
+thread with id 41 came out from the gallery. 
+[1703005355629024]  now in gallery: 49. statistics: 5 5 5 5 4 --> total visitors for day: 101
+
+thread with id 74 watched at the painting with id = 3 and goes to another
+[1703005355631193]  now in gallery: 49. statistics: 4 5 5 4 4 --> total visitors for day: 101
+
+thread with id 74 came out from the gallery. 
+[1703005355631219]  now in gallery: 48. statistics: 4 5 5 4 4 --> total visitors for day: 101
+
+thread with id 62 watched at the painting with id = 0 and goes to another
+[1703005355631246]  now in gallery: 48. statistics: 4 5 5 4 4 --> total visitors for day: 101
+
+thread with id 62 watching at the painting with id = 3 for 4 seconds.
+[1703005355631301]  now in gallery: 48. statistics: 4 5 5 5 4 --> total visitors for day: 101
+
+thread with id 77 watched at the painting with id = 0 and goes to another
+[1703005355632181]  now in gallery: 48. statistics: 3 5 5 5 4 --> total visitors for day: 101
+
+thread with id 54 watching at the painting with id = 4 for 2 seconds.
+[1703005355632283]  now in gallery: 48. statistics: 3 5 5 5 5 --> total visitors for day: 101
+
+thread with id 63 watched at the painting with id = 3 and goes to another
+[1703005355632457]  now in gallery: 48. statistics: 3 5 5 4 5 --> total visitors for day: 101
+
+thread with id 63 watching at the painting with id = 0 for 2 seconds.
+[1703005355632498]  now in gallery: 48. statistics: 4 5 5 4 5 --> total visitors for day: 101
+
+thread with id 58 watching at the painting with id = 3 for 1 seconds.
+[1703005355632555]  now in gallery: 48. statistics: 4 5 5 5 5 --> total visitors for day: 101
+
+thread with id 65 watched at the painting with id = 3 and goes to another
+[1703005355660701]  now in gallery: 48. statistics: 4 5 5 4 5 --> total visitors for day: 101
+
+thread with id 59 watching at the painting with id = 3 for 2 seconds.
+[1703005355662625]  now in gallery: 48. statistics: 4 5 5 5 5 --> total visitors for day: 101
+
+thread with id 71 watched at the painting with id = 3 and goes to another
+[1703005356619160]  now in gallery: 48. statistics: 4 5 5 4 5 --> total visitors for day: 101
+
+thread with id 77 watching at the painting with id = 3 for 5 seconds.
+[1703005356623570]  now in gallery: 48. statistics: 4 5 5 5 5 --> total visitors for day: 101
+
+thread with id 87 watched at the painting with id = 4 and goes to another
+[1703005356624489]  now in gallery: 48. statistics: 4 4 5 5 4 --> total visitors for day: 101
+
+thread with id 30 watched at the painting with id = 1 and goes to another
+[1703005356624532]  now in gallery: 48. statistics: 4 4 5 5 4 --> total visitors for day: 101
+
+thread with id 30 came out from the gallery. 
+[1703005356624539]  now in gallery: 47. statistics: 4 4 5 5 4 --> total visitors for day: 101
+
+thread with id 71 watching at the painting with id = 1 for 6 seconds.
+[1703005356627750]  now in gallery: 47. statistics: 4 5 5 5 4 --> total visitors for day: 101
+
+thread with id 97 watching at the painting with id = 4 for 4 seconds.
+[1703005356632746]  now in gallery: 47. statistics: 4 5 5 5 5 --> total visitors for day: 101
+
+thread with id 58 watched at the painting with id = 3 and goes to another
+[1703005356634876]  now in gallery: 47. statistics: 4 5 5 4 5 --> total visitors for day: 101
+
+thread with id 78 watching at the painting with id = 3 for 9 seconds.
+[1703005356640318]  now in gallery: 47. statistics: 4 5 5 5 5 --> total visitors for day: 101
+
+thread with id 99 watched at the painting with id = 1 and goes to another
+[1703005356659173]  now in gallery: 47. statistics: 4 4 5 5 5 --> total visitors for day: 101
+
+thread with id 68 watching at the painting with id = 1 for 10 seconds.
+[1703005356665408]  now in gallery: 47. statistics: 4 5 5 5 5 --> total visitors for day: 101
+
+thread with id 55 watched at the painting with id = 2 and goes to another
+[1703005357623610]  now in gallery: 47. statistics: 4 5 4 5 5 --> total visitors for day: 101
+
+thread with id 25 watching at the painting with id = 2 for 4 seconds.
+[1703005357623986]  now in gallery: 47. statistics: 4 5 5 5 5 --> total visitors for day: 101
+
+thread with id 63 watched at the painting with id = 0 and goes to another
+[1703005357635881]  now in gallery: 47. statistics: 3 5 5 5 4 --> total visitors for day: 101
+
+thread with id 54 watched at the painting with id = 4 and goes to another
+[1703005357635917]  now in gallery: 47. statistics: 3 5 5 5 4 --> total visitors for day: 101
+
+thread with id 69 watched at the painting with id = 0 and goes to another
+[1703005357640168]  now in gallery: 47. statistics: 2 5 5 5 4 --> total visitors for day: 101
+
+thread with id 61 watching at the painting with id = 4 for 7 seconds.
+[1703005357641539]  now in gallery: 47. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 59 watched at the painting with id = 3 and goes to another
+[1703005357667462]  now in gallery: 47. statistics: 2 5 5 4 5 --> total visitors for day: 101
+
+thread with id 59 came out from the gallery. 
+[1703005357667473]  now in gallery: 46. statistics: 2 5 5 4 5 --> total visitors for day: 101
+
+thread with id 55 watching at the painting with id = 3 for 7 seconds.
+[1703005357669665]  now in gallery: 46. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 72 watched at the painting with id = 4 and goes to another
+[1703005358639111]  now in gallery: 46. statistics: 2 5 5 5 4 --> total visitors for day: 101
+
+thread with id 58 watching at the painting with id = 4 for 5 seconds.
+[1703005358644851]  now in gallery: 46. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 86 watched at the painting with id = 1 and goes to another
+[1703005358644894]  now in gallery: 46. statistics: 2 4 5 5 5 --> total visitors for day: 101
+
+thread with id 51 watching at the painting with id = 1 for 8 seconds.
+[1703005358652813]  now in gallery: 46. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 62 watched at the painting with id = 3 and goes to another
+[1703005359633206]  now in gallery: 46. statistics: 2 5 5 4 5 --> total visitors for day: 101
+
+thread with id 62 came out from the gallery. 
+[1703005359633216]  now in gallery: 45. statistics: 2 5 5 4 5 --> total visitors for day: 101
+
+thread with id 72 watching at the painting with id = 3 for 3 seconds.
+[1703005359636866]  now in gallery: 45. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 83 watched at the painting with id = 2 and goes to another
+[1703005359638995]  now in gallery: 45. statistics: 2 5 4 5 5 --> total visitors for day: 101
+
+thread with id 83 watching at the painting with id = 0 for 9 seconds.
+[1703005359639102]  now in gallery: 45. statistics: 3 5 4 5 5 --> total visitors for day: 101
+
+thread with id 91 watched at the painting with id = 0 and goes to another
+[1703005359639198]  now in gallery: 45. statistics: 2 5 4 5 5 --> total visitors for day: 101
+
+thread with id 91 came out from the gallery. 
+[1703005359639209]  now in gallery: 44. statistics: 2 5 4 5 5 --> total visitors for day: 101
+
+thread with id 87 watching at the painting with id = 2 for 8 seconds.
+[1703005359645973]  now in gallery: 44. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 96 watched at the painting with id = 4 and goes to another
+[1703005360623635]  now in gallery: 44. statistics: 2 5 5 5 4 --> total visitors for day: 101
+
+thread with id 75 watched at the painting with id = 2 and goes to another
+[1703005360623678]  now in gallery: 44. statistics: 2 5 4 5 4 --> total visitors for day: 101
+
+thread with id 76 watching at the painting with id = 2 for 3 seconds.
+[1703005360623710]  now in gallery: 44. statistics: 2 5 5 5 4 --> total visitors for day: 101
+
+thread with id 75 watching at the painting with id = 4 for 6 seconds.
+[1703005360623726]  now in gallery: 44. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 98 watched at the painting with id = 2 and goes to another
+[1703005360631168]  now in gallery: 44. statistics: 2 4 4 5 5 --> total visitors for day: 101
+
+thread with id 60 watched at the painting with id = 1 and goes to another
+[1703005360631196]  now in gallery: 44. statistics: 2 4 4 5 5 --> total visitors for day: 101
+
+thread with id 6 watching at the painting with id = 2 for 10 seconds.
+[1703005360631217]  now in gallery: 44. statistics: 2 4 5 5 5 --> total visitors for day: 101
+
+thread with id 82 watching at the painting with id = 1 for 10 seconds.
+[1703005360632690]  now in gallery: 44. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 97 watched at the painting with id = 4 and goes to another
+[1703005360636649]  now in gallery: 44. statistics: 2 5 5 5 4 --> total visitors for day: 101
+
+thread with id 86 watching at the painting with id = 4 for 8 seconds.
+[1703005360638718]  now in gallery: 44. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 77 watched at the painting with id = 3 and goes to another
+[1703005361627050]  now in gallery: 44. statistics: 2 5 4 4 5 --> total visitors for day: 101
+
+thread with id 77 came out from the gallery. 
+[1703005361627076]  now in gallery: 43. statistics: 2 5 4 4 5 --> total visitors for day: 101
+
+thread with id 25 watched at the painting with id = 2 and goes to another
+[1703005361627149]  now in gallery: 43. statistics: 2 5 4 4 5 --> total visitors for day: 101
+
+thread with id 25 came out from the gallery. 
+[1703005361627159]  now in gallery: 42. statistics: 2 5 4 4 5 --> total visitors for day: 101
+
+thread with id 54 watching at the painting with id = 2 for 1 seconds.
+[1703005361628034]  now in gallery: 42. statistics: 2 5 5 4 5 --> total visitors for day: 101
+
+thread with id 98 watching at the painting with id = 3 for 1 seconds.
+[1703005361628101]  now in gallery: 42. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 71 watched at the painting with id = 1 and goes to another
+[1703005362630596]  now in gallery: 42. statistics: 2 4 4 5 5 --> total visitors for day: 101
+
+thread with id 98 watched at the painting with id = 3 and goes to another
+[1703005362630613]  now in gallery: 42. statistics: 2 4 4 4 5 --> total visitors for day: 101
+
+thread with id 54 watched at the painting with id = 2 and goes to another
+[1703005362630662]  now in gallery: 42. statistics: 2 4 4 4 5 --> total visitors for day: 101
+
+thread with id 54 came out from the gallery. 
+[1703005362630671]  now in gallery: 41. statistics: 2 4 4 4 5 --> total visitors for day: 101
+
+thread with id 98 watching at the painting with id = 1 for 8 seconds.
+[1703005362630760]  now in gallery: 41. statistics: 2 5 4 4 5 --> total visitors for day: 101
+
+thread with id 65 watching at the painting with id = 2 for 3 seconds.
+[1703005362630805]  now in gallery: 41. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 96 watching at the painting with id = 3 for 3 seconds.
+[1703005362630846]  now in gallery: 41. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 72 watched at the painting with id = 3 and goes to another
+[1703005362641495]  now in gallery: 41. statistics: 2 5 5 4 5 --> total visitors for day: 101
+
+thread with id 72 came out from the gallery. 
+[1703005362641502]  now in gallery: 40. statistics: 2 5 5 4 5 --> total visitors for day: 101
+
+thread with id 93 watching at the painting with id = 3 for 10 seconds.
+[1703005362642399]  now in gallery: 40. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 64 watched at the painting with id = 1 and goes to another
+[1703005363615655]  now in gallery: 40. statistics: 2 4 5 5 5 --> total visitors for day: 101
+
+thread with id 64 watching at the painting with id = 0 for 4 seconds.
+[1703005363615704]  now in gallery: 40. statistics: 3 4 5 5 5 --> total visitors for day: 101
+
+thread with id 92 watching at the painting with id = 1 for 4 seconds.
+[1703005363620984]  now in gallery: 40. statistics: 3 5 5 5 5 --> total visitors for day: 101
+
+thread with id 76 watched at the painting with id = 2 and goes to another
+[1703005363628026]  now in gallery: 40. statistics: 3 5 4 5 5 --> total visitors for day: 101
+
+thread with id 57 watching at the painting with id = 2 for 5 seconds.
+[1703005363629282]  now in gallery: 40. statistics: 3 5 5 5 5 --> total visitors for day: 101
+
+thread with id 53 watched at the painting with id = 0 and goes to another
+[1703005363637019]  now in gallery: 40. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 53 came out from the gallery. 
+[1703005363637027]  now in gallery: 39. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 50 watched at the painting with id = 3 and goes to another
+[1703005363646294]  now in gallery: 39. statistics: 2 5 5 4 5 --> total visitors for day: 101
+
+thread with id 76 watching at the painting with id = 3 for 10 seconds.
+[1703005363646403]  now in gallery: 39. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 58 watched at the painting with id = 4 and goes to another
+[1703005363649573]  now in gallery: 39. statistics: 2 5 5 5 4 --> total visitors for day: 101
+
+thread with id 58 came out from the gallery. 
+[1703005363649704]  now in gallery: 38. statistics: 2 5 5 5 4 --> total visitors for day: 101
+
+thread with id 71 watching at the painting with id = 4 for 8 seconds.
+[1703005363656940]  now in gallery: 38. statistics: 2 5 5 5 5 --> total visitors for day: 101
+
+thread with id 67 watched at the painting with id = 2 and goes to another
+[1703005364619115]  now in gallery: 38. statistics: 2 5 4 5 5 --> total visitors for day: 101
+
+thread with id 67 watching at the painting with id = 0 for 1 seconds.
+[1703005364619168]  now in gallery: 38. statistics: 3 5 4 5 5 --> total visitors for day: 101
+
+thread with id 99 watching at the painting with id = 2 for 8 seconds.
+[1703005364624085]  now in gallery: 38. statistics: 3 5 5 5 5 --> total visitors for day: 101
+
+thread with id 80 watched at the painting with id = 4 and goes to another
+[1703005364628780]  now in gallery: 38. statistics: 3 5 5 5 4 --> total visitors for day: 101
+
+thread with id 61 watched at the painting with id = 4 and goes to another
+[1703005364646600]  now in gallery: 38. statistics: 3 5 5 5 3 --> total visitors for day: 101
+
+thread with id 61 came out from the gallery. 
+[1703005364646614]  now in gallery: 37. statistics: 3 5 5 5 3 --> total visitors for day: 101
+
+thread with id 55 watched at the painting with id = 3 and goes to another
+[1703005364672005]  now in gallery: 37. statistics: 3 5 5 4 3 --> total visitors for day: 101
+
+thread with id 88 watching at the painting with id = 3 for 7 seconds.
+[1703005364676833]  now in gallery: 37. statistics: 3 5 5 5 3 --> total visitors for day: 101
+
+thread with id 67 watched at the painting with id = 0 and goes to another
+[1703005365623543]  now in gallery: 37. statistics: 2 5 5 5 3 --> total visitors for day: 101
+
+thread with id 96 watched at the painting with id = 3 and goes to another
+[1703005365632530]  now in gallery: 37. statistics: 2 5 4 4 3 --> total visitors for day: 101
+
+thread with id 96 came out from the gallery. 
+[1703005365632576]  now in gallery: 36. statistics: 2 5 4 4 3 --> total visitors for day: 101
+
+thread with id 65 watched at the painting with id = 2 and goes to another
+[1703005365632673]  now in gallery: 36. statistics: 2 5 4 4 3 --> total visitors for day: 101
+
+thread with id 65 came out from the gallery. 
+[1703005365632684]  now in gallery: 35. statistics: 2 5 4 4 3 --> total visitors for day: 101
+
+thread with id 60 watching at the painting with id = 2 for 3 seconds.
+[1703005365638705]  now in gallery: 35. statistics: 2 5 5 4 3 --> total visitors for day: 101
+
+thread with id 78 watched at the painting with id = 3 and goes to another
+[1703005365645560]  now in gallery: 35. statistics: 2 5 5 3 3 --> total visitors for day: 101
+
+thread with id 75 watched at the painting with id = 4 and goes to another
+[1703005366627213]  now in gallery: 35. statistics: 2 5 5 3 2 --> total visitors for day: 101
+
+thread with id 75 came out from the gallery. 
+[1703005366627221]  now in gallery: 34. statistics: 2 5 5 3 2 --> total visitors for day: 101
+
+thread with id 51 watched at the painting with id = 1 and goes to another
+[1703005366657011]  now in gallery: 34. statistics: 2 4 5 3 2 --> total visitors for day: 101
+
+thread with id 51 watching at the painting with id = 0 for 5 seconds.
+[1703005366657103]  now in gallery: 34. statistics: 3 4 5 3 2 --> total visitors for day: 101
+
+thread with id 63 watching at the painting with id = 1 for 8 seconds.
+[1703005366659064]  now in gallery: 34. statistics: 3 5 5 3 2 --> total visitors for day: 101
+
+thread with id 68 watched at the painting with id = 1 and goes to another
+[1703005366667248]  now in gallery: 34. statistics: 3 4 5 3 2 --> total visitors for day: 101
+
+thread with id 97 watching at the painting with id = 1 for 3 seconds.
+[1703005366669385]  now in gallery: 34. statistics: 3 5 5 3 2 --> total visitors for day: 101
+
+thread with id 64 watched at the painting with id = 0 and goes to another
+[1703005367619029]  now in gallery: 34. statistics: 2 5 5 3 2 --> total visitors for day: 101
+
+thread with id 64 watching at the painting with id = 3 for 9 seconds.
+[1703005367619133]  now in gallery: 34. statistics: 2 5 5 4 2 --> total visitors for day: 101
+
+thread with id 92 watched at the painting with id = 1 and goes to another
+[1703005367622232]  now in gallery: 34. statistics: 2 4 5 4 2 --> total visitors for day: 101
+
+thread with id 92 watching at the painting with id = 0 for 5 seconds.
+[1703005367622270]  now in gallery: 34. statistics: 3 4 5 4 2 --> total visitors for day: 101
+
+thread with id 67 watching at the painting with id = 1 for 6 seconds.
+[1703005367629992]  now in gallery: 34. statistics: 3 5 5 4 2 --> total visitors for day: 101
+
+thread with id 87 watched at the painting with id = 2 and goes to another
+[1703005367649266]  now in gallery: 34. statistics: 3 5 4 4 2 --> total visitors for day: 101
+
+thread with id 87 came out from the gallery. 
+[1703005367649279]  now in gallery: 33. statistics: 3 5 4 4 2 --> total visitors for day: 101
+
+thread with id 68 watching at the painting with id = 2 for 10 seconds.
+[1703005367654976]  now in gallery: 33. statistics: 3 5 5 4 2 --> total visitors for day: 101
+
+thread with id 57 watched at the painting with id = 2 and goes to another
+[1703005368632022]  now in gallery: 33. statistics: 3 5 4 4 2 --> total visitors for day: 101
+
+thread with id 40 watching at the painting with id = 2 for 3 seconds.
+[1703005368632898]  now in gallery: 33. statistics: 3 5 5 4 2 --> total visitors for day: 101
+
+thread with id 60 watched at the painting with id = 2 and goes to another
+[1703005368643785]  now in gallery: 33. statistics: 3 5 4 4 1 --> total visitors for day: 101
+
+thread with id 86 watched at the painting with id = 4 and goes to another
+[1703005368643808]  now in gallery: 33. statistics: 3 5 4 4 1 --> total visitors for day: 101
+
+thread with id 60 watching at the painting with id = 0 for 1 seconds.
+[1703005368643828]  now in gallery: 33. statistics: 4 5 4 4 1 --> total visitors for day: 101
+
+thread with id 86 watching at the painting with id = 2 for 2 seconds.
+[1703005368643858]  now in gallery: 33. statistics: 4 5 5 4 1 --> total visitors for day: 101
+
+thread with id 83 watched at the painting with id = 0 and goes to another
+[1703005368644185]  now in gallery: 33. statistics: 3 5 5 4 1 --> total visitors for day: 101
+
+thread with id 83 watching at the painting with id = 4 for 5 seconds.
+[1703005368644216]  now in gallery: 33. statistics: 3 5 5 4 2 --> total visitors for day: 101
+
+thread with id 60 watched at the painting with id = 0 and goes to another
+[1703005369648129]  now in gallery: 33. statistics: 2 5 5 4 2 --> total visitors for day: 101
+
+thread with id 60 came out from the gallery. 
+[1703005369648138]  now in gallery: 32. statistics: 2 5 5 4 2 --> total visitors for day: 101
+
+thread with id 97 watched at the painting with id = 1 and goes to another
+[1703005369672131]  now in gallery: 32. statistics: 2 4 5 4 2 --> total visitors for day: 101
+
+thread with id 97 watching at the painting with id = 3 for 4 seconds.
+[1703005369672180]  now in gallery: 32. statistics: 2 4 5 5 2 --> total visitors for day: 101
+
+thread with id 57 watching at the painting with id = 1 for 8 seconds.
+[1703005369677098]  now in gallery: 32. statistics: 2 5 5 5 2 --> total visitors for day: 101
+
+thread with id 82 watched at the painting with id = 1 and goes to another
+[1703005370634473]  now in gallery: 32. statistics: 2 3 4 5 2 --> total visitors for day: 101
+
+thread with id 6 watched at the painting with id = 2 and goes to another
+[1703005370634520]  now in gallery: 32. statistics: 2 3 4 5 2 --> total visitors for day: 101
+
+thread with id 6 came out from the gallery. 
+[1703005370634544]  now in gallery: 31. statistics: 2 3 5 5 2 --> total visitors for day: 101
+
+thread with id 98 watched at the painting with id = 1 and goes to another
+[1703005370634579]  now in gallery: 31. statistics: 2 3 5 5 2 --> total visitors for day: 101
+
+thread with id 82 watching at the painting with id = 2 for 9 seconds.
+[1703005370634641]  now in gallery: 31. statistics: 2 3 5 5 3 --> total visitors for day: 101
+
+thread with id 98 watching at the painting with id = 4 for 10 seconds.
+[1703005370634936]  now in gallery: 31. statistics: 2 3 5 5 3 --> total visitors for day: 101
+
+thread with id 55 watching at the painting with id = 1 for 9 seconds.
+[1703005370638267]  now in gallery: 31. statistics: 2 4 5 5 3 --> total visitors for day: 101
+
+thread with id 100 watching at the painting with id = 1 for 3 seconds.
+[1703005370638347]  now in gallery: 31. statistics: 2 5 5 5 3 --> total visitors for day: 101
+
+thread with id 86 watched at the painting with id = 2 and goes to another
+[1703005370648870]  now in gallery: 31. statistics: 2 5 4 5 3 --> total visitors for day: 101
+
+thread with id 86 watching at the painting with id = 0 for 2 seconds.
+[1703005370648907]  now in gallery: 31. statistics: 3 5 4 5 3 --> total visitors for day: 101
+
+thread with id 52 watching at the painting with id = 2 for 10 seconds.
+[1703005370650038]  now in gallery: 31. statistics: 3 5 5 5 3 --> total visitors for day: 101
+
+thread with id 40 watched at the painting with id = 2 and goes to another
+[1703005371635114]  now in gallery: 31. statistics: 3 5 4 5 3 --> total visitors for day: 101
+
+thread with id 40 came out from the gallery. 
+[1703005371635124]  now in gallery: 30. statistics: 3 5 4 5 3 --> total visitors for day: 101
+
+thread with id 90 watching at the painting with id = 2 for 2 seconds.
+[1703005371639081]  now in gallery: 30. statistics: 3 5 5 5 3 --> total visitors for day: 101
+
+thread with id 51 watched at the painting with id = 0 and goes to another
+[1703005371661549]  now in gallery: 30. statistics: 2 5 5 5 2 --> total visitors for day: 101
+
+thread with id 71 watched at the painting with id = 4 and goes to another
+[1703005371661586]  now in gallery: 30. statistics: 2 5 5 5 2 --> total visitors for day: 101
+
+thread with id 71 watching at the painting with id = 0 for 1 seconds.
+[1703005371661609]  now in gallery: 30. statistics: 3 5 5 5 2 --> total visitors for day: 101
+
+thread with id 88 watched at the painting with id = 3 and goes to another
+[1703005371679381]  now in gallery: 30. statistics: 3 5 5 4 2 --> total visitors for day: 101
+
+thread with id 88 watching at the painting with id = 0 for 3 seconds.
+[1703005371679523]  now in gallery: 30. statistics: 4 5 5 4 2 --> total visitors for day: 101
+
+thread with id 51 watching at the painting with id = 3 for 8 seconds.
+[1703005371680585]  now in gallery: 30. statistics: 4 5 5 5 2 --> total visitors for day: 101
+
+thread with id 92 watched at the painting with id = 0 and goes to another
+[1703005372626101]  now in gallery: 30. statistics: 3 5 5 5 2 --> total visitors for day: 101
+
+thread with id 99 watched at the painting with id = 2 and goes to another
+[1703005372628093]  now in gallery: 30. statistics: 3 5 4 5 2 --> total visitors for day: 101
+
+thread with id 99 watching at the painting with id = 0 for 4 seconds.
+[1703005372628138]  now in gallery: 30. statistics: 4 5 4 5 2 --> total visitors for day: 101
+
+thread with id 56 watching at the painting with id = 2 for 4 seconds.
+[1703005372632422]  now in gallery: 30. statistics: 4 5 5 5 2 --> total visitors for day: 101
+
+thread with id 93 watched at the painting with id = 3 and goes to another
+[1703005372647418]  now in gallery: 30. statistics: 4 5 5 4 2 --> total visitors for day: 101
+
+thread with id 93 watching at the painting with id = 4 for 5 seconds.
+[1703005372647452]  now in gallery: 30. statistics: 4 5 5 4 3 --> total visitors for day: 101
+
+thread with id 86 watched at the painting with id = 0 and goes to another
+[1703005372653136]  now in gallery: 30. statistics: 3 5 5 4 3 --> total visitors for day: 101
+
+thread with id 86 came out from the gallery. 
+[1703005372653144]  now in gallery: 29. statistics: 3 5 5 4 3 --> total visitors for day: 101
+
+thread with id 92 watching at the painting with id = 3 for 2 seconds.
+[1703005372658976]  now in gallery: 29. statistics: 3 5 5 5 3 --> total visitors for day: 101
+
+thread with id 71 watched at the painting with id = 0 and goes to another
+[1703005372666018]  now in gallery: 29. statistics: 2 5 5 5 3 --> total visitors for day: 101
+
+thread with id 71 came out from the gallery. 
+[1703005372666138]  now in gallery: 28. statistics: 2 5 5 5 3 --> total visitors for day: 101
+
+thread with id 67 watched at the painting with id = 1 and goes to another
+[1703005373633621]  now in gallery: 28. statistics: 2 4 5 5 3 --> total visitors for day: 101
+
+thread with id 67 watching at the painting with id = 4 for 2 seconds.
+[1703005373633682]  now in gallery: 28. statistics: 2 4 5 5 4 --> total visitors for day: 101
+
+thread with id 80 watching at the painting with id = 1 for 5 seconds.
+[1703005373639075]  now in gallery: 28. statistics: 2 4 5 5 4 --> total visitors for day: 101
+
+thread with id 100 watched at the painting with id = 1 and goes to another
+[1703005373639135]  now in gallery: 28. statistics: 2 4 5 5 4 --> total visitors for day: 101
+
+thread with id 90 watched at the painting with id = 2 and goes to another
+[1703005373639365]  now in gallery: 28. statistics: 2 4 4 5 4 --> total visitors for day: 101
+
+thread with id 90 watching at the painting with id = 4 for 7 seconds.
+[1703005373639414]  now in gallery: 28. statistics: 2 4 5 5 5 --> total visitors for day: 101
+
+thread with id 100 watching at the painting with id = 2 for 1 seconds.
+[1703005373639479]  now in gallery: 28. statistics: 2 4 5 5 5 --> total visitors for day: 101
+
+thread with id 83 watched at the painting with id = 4 and goes to another
+[1703005373648375]  now in gallery: 28. statistics: 2 4 5 5 4 --> total visitors for day: 101
+
+thread with id 83 came out from the gallery. 
+[1703005373648390]  now in gallery: 27. statistics: 2 4 5 5 4 --> total visitors for day: 101
+
+thread with id 76 watched at the painting with id = 3 and goes to another
+[1703005373650973]  now in gallery: 27. statistics: 2 4 5 4 4 --> total visitors for day: 101
+
+thread with id 76 watching at the painting with id = 0 for 3 seconds.
+[1703005373651016]  now in gallery: 27. statistics: 3 4 5 4 4 --> total visitors for day: 101
+
+thread with id 97 watched at the painting with id = 3 and goes to another
+[1703005373675060]  now in gallery: 27. statistics: 3 4 5 3 4 --> total visitors for day: 101
+
+thread with id 100 watched at the painting with id = 2 and goes to another
+[1703005374640329]  now in gallery: 27. statistics: 3 4 4 3 4 --> total visitors for day: 101
+
+thread with id 100 watching at the painting with id = 0 for 10 seconds.
+[1703005374640377]  now in gallery: 27. statistics: 4 4 4 3 4 --> total visitors for day: 101
+
+thread with id 66 watching at the painting with id = 2 for 8 seconds.
+[1703005374647007]  now in gallery: 27. statistics: 4 4 5 3 4 --> total visitors for day: 101
+
+thread with id 92 watched at the painting with id = 3 and goes to another
+[1703005374662931]  now in gallery: 27. statistics: 4 3 5 2 4 --> total visitors for day: 101
+
+thread with id 63 watched at the painting with id = 1 and goes to another
+[1703005374662961]  now in gallery: 27. statistics: 4 3 5 2 5 --> total visitors for day: 101
+
+thread with id 92 watching at the painting with id = 4 for 4 seconds.
+[1703005374662974]  now in gallery: 27. statistics: 4 3 5 2 5 --> total visitors for day: 101
+
+thread with id 88 watched at the painting with id = 0 and goes to another
+[1703005374680831]  now in gallery: 27. statistics: 3 3 5 2 5 --> total visitors for day: 101
+
+thread with id 88 watching at the painting with id = 1 for 8 seconds.
+[1703005374680874]  now in gallery: 27. statistics: 3 4 5 2 5 --> total visitors for day: 101
+
+thread with id 67 watched at the painting with id = 4 and goes to another
+[1703005375638729]  now in gallery: 27. statistics: 3 4 5 2 4 --> total visitors for day: 101
+
+thread with id 67 came out from the gallery. 
+[1703005375638740]  now in gallery: 26. statistics: 3 4 5 2 4 --> total visitors for day: 101
+
+thread with id 63 watching at the painting with id = 4 for 9 seconds.
+[1703005375639584]  now in gallery: 26. statistics: 3 4 5 2 5 --> total visitors for day: 101
+
+thread with id 64 watched at the painting with id = 3 and goes to another
+[1703005376622026]  now in gallery: 26. statistics: 3 4 5 1 5 --> total visitors for day: 101
+
+thread with id 64 came out from the gallery. 
+[1703005376622095]  now in gallery: 25. statistics: 3 4 5 1 5 --> total visitors for day: 101
+
+thread with id 99 watched at the painting with id = 0 and goes to another
+[1703005376632229]  now in gallery: 25. statistics: 2 4 5 1 5 --> total visitors for day: 101
+
+thread with id 99 came out from the gallery. 
+[1703005376632238]  now in gallery: 24. statistics: 2 4 5 1 5 --> total visitors for day: 101
+
+thread with id 56 watched at the painting with id = 2 and goes to another
+[1703005376636705]  now in gallery: 24. statistics: 2 4 4 1 5 --> total visitors for day: 101
+
+thread with id 56 watching at the painting with id = 1 for 10 seconds.
+[1703005376636754]  now in gallery: 24. statistics: 2 5 4 1 5 --> total visitors for day: 101
+
+thread with id 89 watching at the painting with id = 2 for 6 seconds.
+[1703005376640354]  now in gallery: 24. statistics: 2 5 5 1 5 --> total visitors for day: 101
+
+thread with id 76 watched at the painting with id = 0 and goes to another
+[1703005376655322]  now in gallery: 24. statistics: 1 5 5 1 5 --> total visitors for day: 101
+
+thread with id 93 watched at the painting with id = 4 and goes to another
+[1703005377652239]  now in gallery: 24. statistics: 1 5 5 1 4 --> total visitors for day: 101
+
+thread with id 93 came out from the gallery. 
+[1703005377652282]  now in gallery: 23. statistics: 1 5 5 1 4 --> total visitors for day: 101
+
+thread with id 76 watching at the painting with id = 4 for 1 seconds.
+[1703005377656841]  now in gallery: 23. statistics: 1 5 5 1 5 --> total visitors for day: 101
+
+thread with id 68 watched at the painting with id = 2 and goes to another
+[1703005377659009]  now in gallery: 23. statistics: 1 5 4 1 5 --> total visitors for day: 101
+
+thread with id 50 watching at the painting with id = 2 for 2 seconds.
+[1703005377661619]  now in gallery: 23. statistics: 1 5 5 1 5 --> total visitors for day: 101
+
+thread with id 57 watched at the painting with id = 1 and goes to another
+[1703005377678971]  now in gallery: 23. statistics: 1 4 5 1 5 --> total visitors for day: 101
+
+thread with id 80 watched at the painting with id = 1 and goes to another
+[1703005378639383]  now in gallery: 23. statistics: 1 3 5 1 5 --> total visitors for day: 101
+
+thread with id 76 watched at the painting with id = 4 and goes to another
+[1703005378661805]  now in gallery: 23. statistics: 1 3 5 1 4 --> total visitors for day: 101
+
+thread with id 76 came out from the gallery. 
+[1703005378661815]  now in gallery: 22. statistics: 1 3 5 1 4 --> total visitors for day: 101
+
+thread with id 68 watching at the painting with id = 4 for 2 seconds.
+[1703005378663022]  now in gallery: 22. statistics: 1 3 5 1 5 --> total visitors for day: 101
+
+thread with id 92 watched at the painting with id = 4 and goes to another
+[1703005378666597]  now in gallery: 22. statistics: 1 3 5 1 4 --> total visitors for day: 101
+
+thread with id 57 watching at the painting with id = 4 for 8 seconds.
+[1703005378669013]  now in gallery: 22. statistics: 1 3 5 1 5 --> total visitors for day: 101
+
+thread with id 82 watched at the painting with id = 2 and goes to another
+[1703005379638691]  now in gallery: 22. statistics: 1 3 4 1 5 --> total visitors for day: 101
+
+thread with id 82 came out from the gallery. 
+[1703005379638696]  now in gallery: 21. statistics: 1 3 4 1 5 --> total visitors for day: 101
+
+thread with id 55 watched at the painting with id = 1 and goes to another
+[1703005379640098]  now in gallery: 21. statistics: 1 2 4 1 5 --> total visitors for day: 101
+
+thread with id 55 came out from the gallery. 
+[1703005379640105]  now in gallery: 20. statistics: 1 2 4 1 5 --> total visitors for day: 101
+
+thread with id 69 watching at the painting with id = 2 for 2 seconds.
+[1703005379643415]  now in gallery: 20. statistics: 1 2 5 1 5 --> total visitors for day: 101
+
+thread with id 50 watched at the painting with id = 2 and goes to another
+[1703005379662996]  now in gallery: 20. statistics: 1 2 4 1 5 --> total visitors for day: 101
+
+thread with id 50 came out from the gallery. 
+[1703005379663073]  now in gallery: 19. statistics: 1 2 4 1 5 --> total visitors for day: 101
+
+thread with id 49 watching at the painting with id = 2 for 7 seconds.
+[1703005379666887]  now in gallery: 19. statistics: 1 2 5 1 5 --> total visitors for day: 101
+
+thread with id 51 watched at the painting with id = 3 and goes to another
+[1703005379685243]  now in gallery: 19. statistics: 1 2 5 0 5 --> total visitors for day: 101
+
+thread with id 98 watched at the painting with id = 4 and goes to another
+[1703005380639018]  now in gallery: 19. statistics: 1 2 5 0 4 --> total visitors for day: 101
+
+thread with id 98 came out from the gallery. 
+[1703005380639106]  now in gallery: 18. statistics: 1 2 5 0 4 --> total visitors for day: 101
+
+thread with id 51 watching at the painting with id = 4 for 8 seconds.
+[1703005380640429]  now in gallery: 18. statistics: 1 2 5 0 5 --> total visitors for day: 101
+
+thread with id 90 watched at the painting with id = 4 and goes to another
+[1703005380642806]  now in gallery: 18. statistics: 1 2 5 0 4 --> total visitors for day: 101
+
+thread with id 90 came out from the gallery. 
+[1703005380642815]  now in gallery: 17. statistics: 1 2 5 0 4 --> total visitors for day: 101
+
+thread with id 52 watched at the painting with id = 2 and goes to another
+[1703005380653778]  now in gallery: 17. statistics: 1 2 4 0 4 --> total visitors for day: 101
+
+thread with id 52 watching at the painting with id = 1 for 8 seconds.
+[1703005380653831]  now in gallery: 17. statistics: 1 3 4 0 4 --> total visitors for day: 101
+
+thread with id 92 watching at the painting with id = 2 for 4 seconds.
+[1703005380656993]  now in gallery: 17. statistics: 1 3 5 0 4 --> total visitors for day: 101
+
+thread with id 68 watched at the painting with id = 4 and goes to another
+[1703005380666216]  now in gallery: 17. statistics: 1 3 5 0 3 --> total visitors for day: 101
+
+thread with id 68 came out from the gallery. 
+[1703005380666232]  now in gallery: 16. statistics: 1 3 5 0 3 --> total visitors for day: 101
+
+thread with id 69 watched at the painting with id = 2 and goes to another
+[1703005381645683]  now in gallery: 16. statistics: 1 3 4 0 3 --> total visitors for day: 101
+
+thread with id 69 watching at the painting with id = 1 for 10 seconds.
+[1703005381645735]  now in gallery: 16. statistics: 1 4 4 0 3 --> total visitors for day: 101
+
+thread with id 97 watching at the painting with id = 2 for 3 seconds.
+[1703005381648576]  now in gallery: 16. statistics: 1 4 5 0 3 --> total visitors for day: 101
+
+thread with id 89 watched at the painting with id = 2 and goes to another
+[1703005382641303]  now in gallery: 16. statistics: 1 4 4 0 3 --> total visitors for day: 101
+
+thread with id 89 watching at the painting with id = 3 for 7 seconds.
+[1703005382641335]  now in gallery: 16. statistics: 1 4 4 1 3 --> total visitors for day: 101
+
+thread with id 84 watching at the painting with id = 2 for 5 seconds.
+[1703005382649286]  now in gallery: 16. statistics: 1 4 5 1 3 --> total visitors for day: 101
+
+thread with id 66 watched at the painting with id = 2 and goes to another
+[1703005382650472]  now in gallery: 16. statistics: 1 4 4 1 3 --> total visitors for day: 101
+
+thread with id 66 watching at the painting with id = 4 for 8 seconds.
+[1703005382650509]  now in gallery: 16. statistics: 1 4 4 1 4 --> total visitors for day: 101
+
+thread with id 78 watching at the painting with id = 2 for 8 seconds.
+[1703005382651213]  now in gallery: 16. statistics: 1 4 5 1 4 --> total visitors for day: 101
+
+thread with id 88 watched at the painting with id = 1 and goes to another
+[1703005382681114]  now in gallery: 16. statistics: 1 3 5 1 4 --> total visitors for day: 101
+
+thread with id 88 came out from the gallery. 
+[1703005382681124]  now in gallery: 15. statistics: 1 3 5 1 4 --> total visitors for day: 101
+
+thread with id 63 watched at the painting with id = 4 and goes to another
+[1703005384640488]  now in gallery: 15. statistics: 1 3 5 1 3 --> total visitors for day: 101
+
+thread with id 100 watched at the painting with id = 0 and goes to another
+[1703005384640854]  now in gallery: 15. statistics: 0 3 5 1 3 --> total visitors for day: 101
+
+thread with id 100 watching at the painting with id = 3 for 1 seconds.
+[1703005384640882]  now in gallery: 15. statistics: 0 3 5 2 3 --> total visitors for day: 101
+
+thread with id 97 watched at the painting with id = 2 and goes to another
+[1703005384651560]  now in gallery: 15. statistics: 0 3 4 2 3 --> total visitors for day: 101
+
+thread with id 97 watching at the painting with id = 0 for 7 seconds.
+[1703005384651605]  now in gallery: 15. statistics: 1 3 4 2 3 --> total visitors for day: 101
+
+thread with id 63 watching at the painting with id = 2 for 10 seconds.
+[1703005384655799]  now in gallery: 15. statistics: 1 3 5 2 3 --> total visitors for day: 101
+
+thread with id 92 watched at the painting with id = 2 and goes to another
+[1703005384661049]  now in gallery: 15. statistics: 1 3 4 2 3 --> total visitors for day: 101
+
+thread with id 92 came out from the gallery. 
+[1703005384661062]  now in gallery: 14. statistics: 1 3 4 2 3 --> total visitors for day: 101
+
+thread with id 80 watching at the painting with id = 2 for 8 seconds.
+[1703005384661969]  now in gallery: 14. statistics: 1 3 5 2 3 --> total visitors for day: 101
+
+thread with id 100 watched at the painting with id = 3 and goes to another
+[1703005385642878]  now in gallery: 14. statistics: 1 3 5 1 3 --> total visitors for day: 101
+
+thread with id 100 watching at the painting with id = 4 for 6 seconds.
+[1703005385642912]  now in gallery: 14. statistics: 1 3 5 1 4 --> total visitors for day: 101
+
+thread with id 56 watched at the painting with id = 1 and goes to another
+[1703005386638866]  now in gallery: 14. statistics: 1 2 5 1 4 --> total visitors for day: 101
+
+thread with id 56 watching at the painting with id = 0 for 9 seconds.
+[1703005386638916]  now in gallery: 14. statistics: 2 2 5 1 4 --> total visitors for day: 101
+
+thread with id 57 watched at the painting with id = 4 and goes to another
+[1703005386672116]  now in gallery: 14. statistics: 2 2 5 1 3 --> total visitors for day: 101
+
+thread with id 57 came out from the gallery. 
+[1703005386672123]  now in gallery: 13. statistics: 2 2 5 1 3 --> total visitors for day: 101
+
+thread with id 49 watched at the painting with id = 2 and goes to another
+[1703005386672166]  now in gallery: 13. statistics: 2 2 4 1 3 --> total visitors for day: 101
+
+thread with id 49 came out from the gallery. 
+[1703005386672173]  now in gallery: 12. statistics: 2 2 4 1 3 --> total visitors for day: 101
+
+thread with id 84 watched at the painting with id = 2 and goes to another
+[1703005387654399]  now in gallery: 12. statistics: 2 2 3 1 3 --> total visitors for day: 101
+
+thread with id 84 watching at the painting with id = 3 for 7 seconds.
+[1703005387654448]  now in gallery: 12. statistics: 2 2 3 2 3 --> total visitors for day: 101
+
+thread with id 51 watched at the painting with id = 4 and goes to another
+[1703005388641526]  now in gallery: 12. statistics: 2 2 3 2 2 --> total visitors for day: 101
+
+thread with id 51 came out from the gallery. 
+[1703005388641536]  now in gallery: 11. statistics: 2 2 3 2 2 --> total visitors for day: 101
+
+thread with id 52 watched at the painting with id = 1 and goes to another
+[1703005388658825]  now in gallery: 11. statistics: 2 1 3 2 2 --> total visitors for day: 101
+
+thread with id 52 watching at the painting with id = 3 for 3 seconds.
+[1703005388658876]  now in gallery: 11. statistics: 2 1 3 3 2 --> total visitors for day: 101
+
+thread with id 89 watched at the painting with id = 3 and goes to another
+[1703005389646107]  now in gallery: 11. statistics: 2 1 3 2 2 --> total visitors for day: 101
+
+thread with id 89 came out from the gallery. 
+[1703005389646114]  now in gallery: 10. statistics: 2 1 3 2 2 --> total visitors for day: 101
+
+thread with id 66 watched at the painting with id = 4 and goes to another
+[1703005390655425]  now in gallery: 10. statistics: 2 1 2 2 1 --> total visitors for day: 101
+
+thread with id 78 watched at the painting with id = 2 and goes to another
+[1703005390655477]  now in gallery: 10. statistics: 3 1 2 2 1 --> total visitors for day: 101
+
+thread with id 66 watching at the painting with id = 0 for 7 seconds.
+[1703005390655660]  now in gallery: 10. statistics: 3 1 2 2 2 --> total visitors for day: 101
+
+thread with id 78 watching at the painting with id = 4 for 6 seconds.
+[1703005390655814]  now in gallery: 10. statistics: 3 1 2 2 2 --> total visitors for day: 101
+
+thread with id 100 watched at the painting with id = 4 and goes to another
+[1703005391646942]  now in gallery: 10. statistics: 3 1 2 2 1 --> total visitors for day: 101
+
+thread with id 100 came out from the gallery. 
+[1703005391646951]  now in gallery: 9. statistics: 3 1 2 2 1 --> total visitors for day: 101
+
+thread with id 69 watched at the painting with id = 1 and goes to another
+[1703005391650558]  now in gallery: 9. statistics: 3 0 2 2 1 --> total visitors for day: 101
+
+thread with id 69 watching at the painting with id = 4 for 10 seconds.
+[1703005391650610]  now in gallery: 9. statistics: 3 0 2 2 2 --> total visitors for day: 101
+
+thread with id 97 watched at the painting with id = 0 and goes to another
+[1703005391655430]  now in gallery: 9. statistics: 2 0 2 2 2 --> total visitors for day: 101
+
+thread with id 97 came out from the gallery. 
+[1703005391655440]  now in gallery: 8. statistics: 2 0 2 2 2 --> total visitors for day: 101
+
+thread with id 52 watched at the painting with id = 3 and goes to another
+[1703005391663263]  now in gallery: 8. statistics: 2 0 2 1 2 --> total visitors for day: 101
+
+thread with id 52 watching at the painting with id = 4 for 9 seconds.
+[1703005391663299]  now in gallery: 8. statistics: 2 0 2 1 3 --> total visitors for day: 101
+
+thread with id 80 watched at the painting with id = 2 and goes to another
+[1703005392666972]  now in gallery: 8. statistics: 2 0 1 1 3 --> total visitors for day: 101
+
+thread with id 80 came out from the gallery. 
+[1703005392666988]  now in gallery: 7. statistics: 2 0 1 1 3 --> total visitors for day: 101
+
+thread with id 84 watched at the painting with id = 3 and goes to another
+[1703005394658780]  now in gallery: 7. statistics: 2 0 1 0 3 --> total visitors for day: 101
+
+thread with id 63 watched at the painting with id = 2 and goes to another
+[1703005394658813]  now in gallery: 7. statistics: 2 0 0 0 3 --> total visitors for day: 101
+
+thread with id 63 came out from the gallery. 
+[1703005394658822]  now in gallery: 6. statistics: 2 0 0 0 3 --> total visitors for day: 101
+
+thread with id 84 watching at the painting with id = 0 for 4 seconds.
+[1703005394658832]  now in gallery: 6. statistics: 3 0 0 0 3 --> total visitors for day: 101
+
+thread with id 56 watched at the painting with id = 0 and goes to another
+[1703005395643092]  now in gallery: 6. statistics: 2 0 0 0 3 --> total visitors for day: 101
+
+thread with id 56 watching at the painting with id = 3 for 4 seconds.
+[1703005395643120]  now in gallery: 6. statistics: 2 0 0 1 3 --> total visitors for day: 101
+
+thread with id 78 watched at the painting with id = 4 and goes to another
+[1703005396658745]  now in gallery: 6. statistics: 2 0 0 1 2 --> total visitors for day: 101
+
+thread with id 78 watching at the painting with id = 0 for 2 seconds.
+[1703005396658793]  now in gallery: 6. statistics: 3 0 0 1 2 --> total visitors for day: 101
+
+thread with id 66 watched at the painting with id = 0 and goes to another
+[1703005397658734]  now in gallery: 6. statistics: 2 0 0 1 2 --> total visitors for day: 101
+
+thread with id 66 watching at the painting with id = 3 for 3 seconds.
+[1703005397658783]  now in gallery: 6. statistics: 2 0 0 2 2 --> total visitors for day: 101
+
+thread with id 78 watched at the painting with id = 0 and goes to another
+[1703005398663364]  now in gallery: 6. statistics: 0 0 0 2 2 --> total visitors for day: 101
+
+thread with id 84 watched at the painting with id = 0 and goes to another
+[1703005398663427]  now in gallery: 6. statistics: 0 1 0 2 2 --> total visitors for day: 101
+
+thread with id 78 watching at the painting with id = 1 for 8 seconds.
+[1703005398663473]  now in gallery: 6. statistics: 0 2 0 2 2 --> total visitors for day: 101
+
+thread with id 84 watching at the painting with id = 1 for 4 seconds.
+[1703005398663619]  now in gallery: 6. statistics: 0 2 0 2 2 --> total visitors for day: 101
+
+thread with id 56 watched at the painting with id = 3 and goes to another
+[1703005399646967]  now in gallery: 6. statistics: 0 2 0 1 2 --> total visitors for day: 101
+
+thread with id 56 watching at the painting with id = 4 for 9 seconds.
+[1703005399647006]  now in gallery: 6. statistics: 0 2 0 1 3 --> total visitors for day: 101
+
+thread with id 66 watched at the painting with id = 3 and goes to another
+[1703005400663356]  now in gallery: 6. statistics: 0 2 0 0 3 --> total visitors for day: 101
+
+thread with id 66 came out from the gallery. 
+[1703005400663366]  now in gallery: 5. statistics: 0 2 0 0 3 --> total visitors for day: 101
+
+thread with id 52 watched at the painting with id = 4 and goes to another
+[1703005400667021]  now in gallery: 5. statistics: 0 2 0 0 2 --> total visitors for day: 101
+
+thread with id 52 watching at the painting with id = 0 for 8 seconds.
+[1703005400667114]  now in gallery: 5. statistics: 1 2 0 0 2 --> total visitors for day: 101
+
+thread with id 69 watched at the painting with id = 4 and goes to another
+[1703005401655434]  now in gallery: 5. statistics: 1 2 0 0 1 --> total visitors for day: 101
+
+thread with id 69 watching at the painting with id = 3 for 3 seconds.
+[1703005401655481]  now in gallery: 5. statistics: 1 2 0 1 1 --> total visitors for day: 101
+
+thread with id 84 watched at the painting with id = 1 and goes to another
+[1703005402664039]  now in gallery: 5. statistics: 1 1 0 1 1 --> total visitors for day: 101
+
+thread with id 84 came out from the gallery. 
+[1703005402664046]  now in gallery: 4. statistics: 1 1 0 1 1 --> total visitors for day: 101
+
+thread with id 69 watched at the painting with id = 3 and goes to another
+[1703005404658667]  now in gallery: 4. statistics: 1 1 0 0 1 --> total visitors for day: 101
+
+thread with id 69 came out from the gallery. 
+[1703005404658677]  now in gallery: 3. statistics: 1 1 0 0 1 --> total visitors for day: 101
+
+thread with id 78 watched at the painting with id = 1 and goes to another
+[1703005406664215]  now in gallery: 3. statistics: 1 0 0 0 1 --> total visitors for day: 101
+
+thread with id 78 came out from the gallery. 
+[1703005406664224]  now in gallery: 2. statistics: 1 0 0 0 1 --> total visitors for day: 101
+
+thread with id 56 watched at the painting with id = 4 and goes to another
+[1703005408650563]  now in gallery: 2. statistics: 1 0 0 0 0 --> total visitors for day: 101
+
+thread with id 56 came out from the gallery. 
+[1703005408650574]  now in gallery: 1. statistics: 1 0 0 0 0 --> total visitors for day: 101
+
+thread with id 52 watched at the painting with id = 0 and goes to another
+[1703005408672129]  now in gallery: 1. statistics: 0 0 0 0 0 --> total visitors for day: 101
+
+thread with id 52 came out from the gallery. 
+[1703005408672139]  now in gallery: 0. statistics: 0 0 0 0 0 --> total visitors for day: 101
+
